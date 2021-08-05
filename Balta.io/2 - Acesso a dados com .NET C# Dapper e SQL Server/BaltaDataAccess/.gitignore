@@ -1,4 +1,9 @@
 /.vscode
 /bin/*
 /obj/*
-/bin/Debug/net5.0/*.dll
+*.dll
+*.cache
+*.AssemblyInfo.cs
+*.pdb
+*.exe
+*.editorconfig

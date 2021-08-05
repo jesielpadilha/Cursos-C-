@@ -1,3 +1,9 @@
 /.vscode
-/bin/
-/obj/
+/bin/*
+/obj/*
+*.dll
+*.cache
+*.AssemblyInfo.cs
+*.pdb
+*.exe
+*.editorconfig
