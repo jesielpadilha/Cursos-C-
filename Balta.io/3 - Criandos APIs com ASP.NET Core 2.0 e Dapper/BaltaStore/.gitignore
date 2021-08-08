@@ -1,0 +1,66 @@
+/.vscode
+/bin/*
+/obj/*
+*.dll
+*.cache
+*.AssemblyInfo.cs
+*.AssemblyAttributes.cs
+*.pdb
+*.exe
+*.editorconfig
+
+# API
+/BaltaStore.Api/bin/BaltaStore.Api.deps.json
+/BaltaStore.Api/bin/Debug/net5.0/BaltaStore.Api.runtimeconfig.dev.json
+/BaltaStore.Api/bin/Debug/net5.0/BaltaStore.Api.runtimeconfig.json
+/BaltaStore.Api/bin/appsettings.Development.json
+/BaltaStore.Api/bin/appsettings.json
+/BaltaStore.Api/obj/BaltaStore.Api.csproj.nuget.dgspec.json
+/BaltaStore.Api/obj/BaltaStore.Api.csproj.nuget.g.props
+/BaltaStore.Api/obj/BaltaStore.Api.csproj.nuget.g.targets
+/BaltaStore.Api/obj/project.assets.json
+/BaltaStore.Api/obj/Debug/net5.0/BaltaStore.Api.csproj.FileListAbsolute.txt
+# Domain
+/BaltaStore.Domain/bin/BaltaStore.Api.deps.json
+/BaltaStore.Domain/bin/Debug/net5.0/BaltaStore.Api.runtimeconfig.dev.json
+/BaltaStore.Domain/bin/Debug/net5.0/BaltaStore.Api.runtimeconfig.json
+/BaltaStore.Domain/bin/appsettings.Development.json
+/BaltaStore.Domain/bin/appsettings.json
+/BaltaStore.Domain/obj/BaltaStore.Domain.csproj.nuget.dgspec.json
+/BaltaStore.Domain/obj/BaltaStore.Domain.csproj.nuget.g.props
+/BaltaStore.Domain/obj/BaltaStore.Domain.csproj.nuget.g.targets
+/BaltaStore.Domain/obj/project.assets.json
+/BaltaStore.Domain/obj/Debug/net5.0/BaltaStore.Domain.csproj.FileListAbsolute.txt
+# Infra
+/BaltaStore.Infra/bin/BaltaStore.Api.deps.json
+/BaltaStore.Infra/bin/Debug/net5.0/BaltaStore.Api.runtimeconfig.dev.json
+/BaltaStore.Infra/bin/Debug/net5.0/BaltaStore.Api.runtimeconfig.json
+/BaltaStore.Infra/bin/appsettings.Development.json
+/BaltaStore.Infra/bin/appsettings.json
+/BaltaStore.Infra/obj/BaltaStore.Infra.csproj.nuget.dgspec.json
+/BaltaStore.Infra/obj/BaltaStore.Infra.csproj.nuget.g.props
+/BaltaStore.Infra/obj/BaltaStore.Infra.csproj.nuget.g.targets
+/BaltaStore.Infra/obj/project.assets.json
+/BaltaStore.Infra/obj/Debug/net5.0/BaltaStore.Infra.csproj.FileListAbsolute.txt
+# Shared
+/BaltaStore.Shared/bin/BaltaStore.Api.deps.json
+/BaltaStore.Shared/bin/Debug/net5.0/BaltaStore.Api.runtimeconfig.dev.json
+/BaltaStore.Shared/bin/Debug/net5.0/BaltaStore.Api.runtimeconfig.json
+/BaltaStore.Shared/bin/appsettings.Development.json
+/BaltaStore.Shared/bin/appsettings.json
+/BaltaStore.Shared/obj/BaltaStore.Shared.csproj.nuget.dgspec.json
+/BaltaStore.Shared/obj/BaltaStore.Shared.csproj.nuget.g.props
+/BaltaStore.Shared/obj/BaltaStore.Shared.csproj.nuget.g.targets
+/BaltaStore.Shared/obj/project.assets.json
+/BaltaStore.Shared/obj/Debug/net5.0/BaltaStore.Shared.csproj.FileListAbsolute.txt
+# Tests
+/BaltaStore.Tests/bin/BaltaStore.Tests.deps.json
+/BaltaStore.Tests/bin/Debug/net5.0/BaltaStore.Tests.runtimeconfig.dev.json
+/BaltaStore.Tests/bin/Debug/net5.0/BaltaStore.Tests.runtimeconfig.json
+/BaltaStore.Tests/bin/appsettings.Development.json
+/BaltaStore.Tests/bin/appsettings.json
+/BaltaStore.Tests/obj/BaltaStore.Tests.csproj.nuget.dgspec.json
+/BaltaStore.Tests/obj/BaltaStore.Tests.csproj.nuget.g.props
+/BaltaStore.Tests/obj/BaltaStore.Tests.csproj.nuget.g.targets
+/BaltaStore.Tests/obj/project.assets.json
+/BaltaStore.Tests/obj/Debug/net5.0/BaltaStore.Tests.csproj.FileListAbsolute.txt
