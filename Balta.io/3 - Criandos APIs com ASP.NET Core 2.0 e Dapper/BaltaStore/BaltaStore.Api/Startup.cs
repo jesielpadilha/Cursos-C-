@@ -1,40 +1,72 @@
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+using System.IO;
+using BaltaStore.Domain.StoreContext.Handlers;
+using BaltaStore.Domain.StoreContext.Repositories;
+using BaltaStore.Domain.StoreContext.Services;
+using BaltaStore.Infra.Repositories;
+using BaltaStore.Infra.Services;
+using BaltaStore.Infra.StoreContext.DataContexts;
+using BaltaStore.Shared;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
-using Microsoft.AspNetCore.Http;
+using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using Microsoft.OpenApi.Models;
+
 
 namespace BaltaStore.Api
 {
     public class Startup
     {
-        // This method gets called by the runtime. Use this method to add services to the container.
-        // For more information on how to configure your application, visit https://go.microsoft.com/fwlink/?LinkID=398940
-        public void ConfigureServices(IServiceCollection services)
+        public Startup(IConfiguration configuration)
         {
+            Configuration = configuration;
         }
 
-        // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
+        public IConfiguration Configuration { get; }
+
+        public void ConfigureServices(IServiceCollection services)
+        {
+            services.AddMvc(x => x.EnableEndpointRouting = false);
+
+            services.AddResponseCompression();
+
+            services.AddScoped<BaltaDataContext, BaltaDataContext>();
+            services.AddTransient<ICustomerRepository, CustomerRepository>();
+            services.AddTransient<IEmailService, EmailService>();
+            services.AddTransient<CustomerHandler, CustomerHandler>();
+
+            services.AddSwaggerGen(x =>
+            {
+                x.SwaggerDoc("v1", new OpenApiInfo { Title = "Balta Store", Version = "v1", });
+            });
+
+            services.AddElmahIo(o =>
+            {
+                o.ApiKey = "53056b810cae445c9446a529fca1509a";
+                o.LogId = new Guid("35e87141-95d2-442f-ac18-7ddcd7307a3d");
+            });
+
+            Settings.ConnectionString = Configuration["ConnectionString"];
+        }
+
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
             if (env.IsDevelopment())
-            {
                 app.UseDeveloperExceptionPage();
-            }
 
-            app.UseRouting();
 
-            app.UseEndpoints(endpoints =>
+            app.UseMvc();
+            app.UseResponseCompression();
+
+            app.UseSwagger();
+            app.UseSwaggerUI(x =>
             {
-                endpoints.MapGet("/", async context =>
-                {
-                    await context.Response.WriteAsync("Hello World!");
-                });
+                x.SwaggerEndpoint("/swagger/v1/swagger.json", "Balta Store - v1");
             });
+
+            app.UseElmahIo();
         }
     }
 }

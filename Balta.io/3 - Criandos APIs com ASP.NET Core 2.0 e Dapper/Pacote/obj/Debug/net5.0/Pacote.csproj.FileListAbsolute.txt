@@ -1,0 +1,12 @@
+C:\Users\Jesiel\Documents\Visual Studio 2019\Projects\Cursos C#\Balta.io\3 - Criandos APIs com ASP.NET Core 2.0 e Dapper\Pacote\bin\Debug\net5.0\Pacote.deps.json
+C:\Users\Jesiel\Documents\Visual Studio 2019\Projects\Cursos C#\Balta.io\3 - Criandos APIs com ASP.NET Core 2.0 e Dapper\Pacote\bin\Debug\net5.0\Pacote.dll
+C:\Users\Jesiel\Documents\Visual Studio 2019\Projects\Cursos C#\Balta.io\3 - Criandos APIs com ASP.NET Core 2.0 e Dapper\Pacote\bin\Debug\net5.0\ref\Pacote.dll
+C:\Users\Jesiel\Documents\Visual Studio 2019\Projects\Cursos C#\Balta.io\3 - Criandos APIs com ASP.NET Core 2.0 e Dapper\Pacote\bin\Debug\net5.0\Pacote.pdb
+C:\Users\Jesiel\Documents\Visual Studio 2019\Projects\Cursos C#\Balta.io\3 - Criandos APIs com ASP.NET Core 2.0 e Dapper\Pacote\obj\Debug\net5.0\Pacote.csproj.AssemblyReference.cache
+C:\Users\Jesiel\Documents\Visual Studio 2019\Projects\Cursos C#\Balta.io\3 - Criandos APIs com ASP.NET Core 2.0 e Dapper\Pacote\obj\Debug\net5.0\Pacote.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jesiel\Documents\Visual Studio 2019\Projects\Cursos C#\Balta.io\3 - Criandos APIs com ASP.NET Core 2.0 e Dapper\Pacote\obj\Debug\net5.0\Pacote.AssemblyInfoInputs.cache
+C:\Users\Jesiel\Documents\Visual Studio 2019\Projects\Cursos C#\Balta.io\3 - Criandos APIs com ASP.NET Core 2.0 e Dapper\Pacote\obj\Debug\net5.0\Pacote.AssemblyInfo.cs
+C:\Users\Jesiel\Documents\Visual Studio 2019\Projects\Cursos C#\Balta.io\3 - Criandos APIs com ASP.NET Core 2.0 e Dapper\Pacote\obj\Debug\net5.0\Pacote.csproj.CoreCompileInputs.cache
+C:\Users\Jesiel\Documents\Visual Studio 2019\Projects\Cursos C#\Balta.io\3 - Criandos APIs com ASP.NET Core 2.0 e Dapper\Pacote\obj\Debug\net5.0\Pacote.dll
+C:\Users\Jesiel\Documents\Visual Studio 2019\Projects\Cursos C#\Balta.io\3 - Criandos APIs com ASP.NET Core 2.0 e Dapper\Pacote\obj\Debug\net5.0\ref\Pacote.dll
+C:\Users\Jesiel\Documents\Visual Studio 2019\Projects\Cursos C#\Balta.io\3 - Criandos APIs com ASP.NET Core 2.0 e Dapper\Pacote\obj\Debug\net5.0\Pacote.pdb

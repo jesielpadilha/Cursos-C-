@@ -4,4 +4,15 @@
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Dapper" Version="2.0.90" />
+    <PackageReference Include="Microsoft.Data.SqlClient" Version="3.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BaltaStore.Shared\BaltaStore.Shared.csproj" />
+    <ProjectReference Include="..\BaltaStore.Domain\BaltaStore.Domain.csproj" />
+  </ItemGroup>
+
+
 </Project>

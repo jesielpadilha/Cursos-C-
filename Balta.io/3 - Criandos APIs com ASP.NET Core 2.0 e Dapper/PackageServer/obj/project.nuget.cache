@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "q8Kki9Njm+WCudLAzIuKWZjqaIICWSQcP/23fsd4OF3Yih4j5COyDoV4gTjKDigyRDT+/9Svh2Th+wSC9R58/g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jesiel\\Documents\\Visual Studio 2019\\Projects\\Cursos C#\\Balta.io\\3 - Criandos APIs com ASP.NET Core 2.0 e Dapper\\PackageServer\\PackageServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jesiel\\.nuget\\packages\\nuget.server\\3.4.1\\nuget.server.3.4.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'NuGet.Server 3.4.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net5.0'. This package may not be fully compatible with your project.",
+      "libraryId": "NuGet.Server",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}
