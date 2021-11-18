@@ -1,0 +1,11 @@
+/.vscode
+/.vs
+/bin/*
+/obj/*
+*.dll
+*.cache
+*.AssemblyInfo.cs
+*.AssemblyAttributes.cs
+*.pdb
+*.exe
+*.editorconfig
