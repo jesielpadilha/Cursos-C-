@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+	<PropertyGroup>
+		<TargetFramework>net6.0</TargetFramework>
+		<UserSecretsId>eb0c048a-2865-4533-abd9-d0e516ea535b</UserSecretsId>
+		<DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="Dapper" Version="2.0.123" />
+		<PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="9.0.0" />
+		<PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.11.1" />
+		<PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<ProjectReference Include="..\NSE.Core\NSE.Core.csproj" />
+		<ProjectReference Include="..\NSE.MessageBus\NSE.MessageBus.csproj" />
+		<ProjectReference Include="..\NSE.Pedido.Domain\NSE.Pedido.Domain.csproj" />
+		<ProjectReference Include="..\NSE.Pedido.Infra\NSE.Pedido.Infra.csproj" />
+		<ProjectReference Include="..\NSE.WebAPI.Core\NSE.WebAPI.Core.csproj" />
+	</ItemGroup>
+
+</Project>

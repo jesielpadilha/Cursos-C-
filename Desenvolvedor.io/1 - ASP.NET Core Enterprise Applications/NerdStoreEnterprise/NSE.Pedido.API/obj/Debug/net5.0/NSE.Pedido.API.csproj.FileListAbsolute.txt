@@ -1,0 +1,56 @@
+C:\Users\Jesiel\Documents\Visual Studio 2019\Projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Pedido.API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Jesiel\Documents\Visual Studio 2019\Projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Pedido.API\bin\Debug\net5.0\appsettings.json
+C:\Users\Jesiel\Documents\Visual Studio 2019\Projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Pedido.API\bin\Debug\net5.0\NSE.Pedido.API.exe
+C:\Users\Jesiel\Documents\Visual Studio 2019\Projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Pedido.API\bin\Debug\net5.0\NSE.Pedido.API.deps.json
+C:\Users\Jesiel\Documents\Visual Studio 2019\Projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Pedido.API\bin\Debug\net5.0\NSE.Pedido.API.runtimeconfig.json
+C:\Users\Jesiel\Documents\Visual Studio 2019\Projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Pedido.API\bin\Debug\net5.0\NSE.Pedido.API.runtimeconfig.dev.json
+C:\Users\Jesiel\Documents\Visual Studio 2019\Projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Pedido.API\bin\Debug\net5.0\NSE.Pedido.API.dll
+C:\Users\Jesiel\Documents\Visual Studio 2019\Projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Pedido.API\bin\Debug\net5.0\ref\NSE.Pedido.API.dll
+C:\Users\Jesiel\Documents\Visual Studio 2019\Projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Pedido.API\bin\Debug\net5.0\NSE.Pedido.API.pdb
+C:\Users\Jesiel\Documents\Visual Studio 2019\Projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Pedido.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Jesiel\Documents\Visual Studio 2019\Projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Pedido.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Jesiel\Documents\Visual Studio 2019\Projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Pedido.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Jesiel\Documents\Visual Studio 2019\Projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Pedido.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Jesiel\Documents\Visual Studio 2019\Projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Pedido.API\obj\Debug\net5.0\NSE.Pedido.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jesiel\Documents\Visual Studio 2019\Projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Pedido.API\obj\Debug\net5.0\NSE.Pedido.API.AssemblyInfoInputs.cache
+C:\Users\Jesiel\Documents\Visual Studio 2019\Projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Pedido.API\obj\Debug\net5.0\NSE.Pedido.API.AssemblyInfo.cs
+C:\Users\Jesiel\Documents\Visual Studio 2019\Projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Pedido.API\obj\Debug\net5.0\NSE.Pedido.API.csproj.CoreCompileInputs.cache
+C:\Users\Jesiel\Documents\Visual Studio 2019\Projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Pedido.API\obj\Debug\net5.0\NSE.Pedido.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Jesiel\Documents\Visual Studio 2019\Projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Pedido.API\obj\Debug\net5.0\NSE.Pedido.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jesiel\Documents\Visual Studio 2019\Projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Pedido.API\obj\Debug\net5.0\scopedcss\bundle\NSE.Pedido.API.styles.css
+C:\Users\Jesiel\Documents\Visual Studio 2019\Projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Pedido.API\obj\Debug\net5.0\staticwebassets\NSE.Pedido.API.StaticWebAssets.Manifest.cache
+C:\Users\Jesiel\Documents\Visual Studio 2019\Projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Pedido.API\obj\Debug\net5.0\NSE.Pedido.API.RazorTargetAssemblyInfo.cache
+C:\Users\Jesiel\Documents\Visual Studio 2019\Projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Pedido.API\obj\Debug\net5.0\NSE.Pedido.API.csproj.CopyComplete
+C:\Users\Jesiel\Documents\Visual Studio 2019\Projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Pedido.API\obj\Debug\net5.0\NSE.Pedido.API.dll
+C:\Users\Jesiel\Documents\Visual Studio 2019\Projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Pedido.API\obj\Debug\net5.0\ref\NSE.Pedido.API.dll
+C:\Users\Jesiel\Documents\Visual Studio 2019\Projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Pedido.API\obj\Debug\net5.0\NSE.Pedido.API.pdb
+C:\Users\Jesiel\Documents\Visual Studio 2019\Projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Pedido.API\obj\Debug\net5.0\NSE.Pedido.API.genruntimeconfig.cache
+C:\Users\Jesiel\Documents\Visual Studio 2019\Projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Pedido.API\obj\Debug\net5.0\NSE.Pedido.API.csproj.AssemblyReference.cache
+C:\projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Pedido.API\bin\Debug\net5.0\appsettings.Development.json
+C:\projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Pedido.API\bin\Debug\net5.0\appsettings.json
+C:\projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Pedido.API\bin\Debug\net5.0\NSE.Pedido.API.exe
+C:\projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Pedido.API\bin\Debug\net5.0\NSE.Pedido.API.deps.json
+C:\projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Pedido.API\bin\Debug\net5.0\NSE.Pedido.API.runtimeconfig.json
+C:\projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Pedido.API\bin\Debug\net5.0\NSE.Pedido.API.runtimeconfig.dev.json
+C:\projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Pedido.API\bin\Debug\net5.0\NSE.Pedido.API.dll
+C:\projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Pedido.API\bin\Debug\net5.0\ref\NSE.Pedido.API.dll
+C:\projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Pedido.API\bin\Debug\net5.0\NSE.Pedido.API.pdb
+C:\projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Pedido.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Pedido.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Pedido.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Pedido.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Pedido.API\obj\Debug\net5.0\NSE.Pedido.API.csproj.AssemblyReference.cache
+C:\projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Pedido.API\obj\Debug\net5.0\NSE.Pedido.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Pedido.API\obj\Debug\net5.0\NSE.Pedido.API.AssemblyInfoInputs.cache
+C:\projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Pedido.API\obj\Debug\net5.0\NSE.Pedido.API.AssemblyInfo.cs
+C:\projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Pedido.API\obj\Debug\net5.0\NSE.Pedido.API.csproj.CoreCompileInputs.cache
+C:\projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Pedido.API\obj\Debug\net5.0\NSE.Pedido.API.MvcApplicationPartsAssemblyInfo.cs
+C:\projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Pedido.API\obj\Debug\net5.0\NSE.Pedido.API.MvcApplicationPartsAssemblyInfo.cache
+C:\projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Pedido.API\obj\Debug\net5.0\scopedcss\bundle\NSE.Pedido.API.styles.css
+C:\projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Pedido.API\obj\Debug\net5.0\staticwebassets\NSE.Pedido.API.StaticWebAssets.Manifest.cache
+C:\projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Pedido.API\obj\Debug\net5.0\NSE.Pedido.API.RazorTargetAssemblyInfo.cache
+C:\projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Pedido.API\obj\Debug\net5.0\NSE.Pedido.API.csproj.CopyComplete
+C:\projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Pedido.API\obj\Debug\net5.0\NSE.Pedido.API.dll
+C:\projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Pedido.API\obj\Debug\net5.0\ref\NSE.Pedido.API.dll
+C:\projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Pedido.API\obj\Debug\net5.0\NSE.Pedido.API.pdb
+C:\projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Pedido.API\obj\Debug\net5.0\NSE.Pedido.API.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Pedido.Domain\bin\Debug\net6.0\NSE.Pedido.Domain.deps.json
+C:\projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Pedido.Domain\bin\Debug\net6.0\NSE.Pedido.Domain.dll
+C:\projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Pedido.Domain\bin\Debug\net6.0\ref\NSE.Pedido.Domain.dll
+C:\projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Pedido.Domain\bin\Debug\net6.0\NSE.Pedido.Domain.pdb
+C:\projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Pedido.Domain\bin\Debug\net6.0\NSE.Core.dll
+C:\projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Pedido.Domain\bin\Debug\net6.0\NSE.Core.pdb
+C:\projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Pedido.Domain\obj\Debug\net6.0\NSE.Pedido.Domain.csproj.AssemblyReference.cache
+C:\projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Pedido.Domain\obj\Debug\net6.0\NSE.Pedido.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Pedido.Domain\obj\Debug\net6.0\NSE.Pedido.Domain.AssemblyInfoInputs.cache
+C:\projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Pedido.Domain\obj\Debug\net6.0\NSE.Pedido.Domain.AssemblyInfo.cs
+C:\projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Pedido.Domain\obj\Debug\net6.0\NSE.Pedido.Domain.csproj.CoreCompileInputs.cache
+C:\projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Pedido.Domain\obj\Debug\net6.0\NSE.Pedido.Domain.csproj.CopyComplete
+C:\projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Pedido.Domain\obj\Debug\net6.0\NSE.Pedido.Domain.dll
+C:\projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Pedido.Domain\obj\Debug\net6.0\ref\NSE.Pedido.Domain.dll
+C:\projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Pedido.Domain\obj\Debug\net6.0\NSE.Pedido.Domain.pdb

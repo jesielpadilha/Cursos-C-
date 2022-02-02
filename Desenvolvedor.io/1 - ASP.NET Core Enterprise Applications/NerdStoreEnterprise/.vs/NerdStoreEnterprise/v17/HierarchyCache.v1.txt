@@ -1,0 +1,1248 @@
+﻿++Solution 'NerdStoreEnterprise' ‎(14 of 14 projects)
+i:{00000000-0000-0000-0000-000000000000}:NerdStoreEnterprise.sln
+++src
+i:{00000000-0000-0000-0000-000000000000}:src
+++ApiGateways
+i:{e4cce53b-01b5-4b7e-851f-2d07e7d1fb68}:ApiGateways
+++Compras
+i:{696d5ef2-26c6-4138-9e7e-3a55afe4a027}:Compras
+++NSE.Bff.Compras
+i:{85d5d981-90d6-484c-b78f-0c1bdbac4174}:NSE.Bff.Compras
+++Connected Services 
+i:{d3bd34df-2e62-42fe-af2a-d8aab7b594e2}:>5930
+i:{6643a2be-5870-4835-8cf1-b698549cb843}:>5940
+i:{331c007f-ddcd-4596-9f84-3661a3064c00}:>5936
+i:{f4a430a8-bd0b-4ef7-a845-700dd8bc3519}:>5927
+i:{567214d8-9d53-4e87-9c81-de6ba0cbfab9}:>5928
+i:{d385728f-fb61-4568-a54a-4903b6b929b1}:>5929
+i:{269a9a96-cdee-4d05-a583-1da93fa45764}:>5938
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:>5926
+++Dependencies
+i:{d3bd34df-2e62-42fe-af2a-d8aab7b594e2}:>5925
+i:{6643a2be-5870-4835-8cf1-b698549cb843}:>5920
+i:{331c007f-ddcd-4596-9f84-3661a3064c00}:>5919
+i:{f4a430a8-bd0b-4ef7-a845-700dd8bc3519}:>5924
+i:{567214d8-9d53-4e87-9c81-de6ba0cbfab9}:>5923
+i:{d385728f-fb61-4568-a54a-4903b6b929b1}:>5921
+i:{676f2d71-d53f-447f-861f-5c7466dd7728}:>2974
+i:{269a9a96-cdee-4d05-a583-1da93fa45764}:>5918
+i:{b3df315f-9238-4511-aff6-c7675aaffbc0}:>3046
+i:{34c4de92-cde1-43f3-abf7-a65a00411219}:>3299
+i:{6c0d96dd-6a02-45ca-965a-c88d15fe2d94}:>1683
+i:{bc8d841b-92b3-42f6-88ec-eb69a97e3fcb}:>2395
+i:{547dbb63-81fb-4d17-a94f-1bbdb1c93fe6}:>2626
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:>5922
+++Properties
+i:{d3bd34df-2e62-42fe-af2a-d8aab7b594e2}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.bff.compras\properties\
+i:{6643a2be-5870-4835-8cf1-b698549cb843}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.carrinho.api\properties\
+i:{331c007f-ddcd-4596-9f84-3661a3064c00}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.identidade.api\properties\
+i:{f4a430a8-bd0b-4ef7-a845-700dd8bc3519}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.catalogo.api\properties\
+i:{567214d8-9d53-4e87-9c81-de6ba0cbfab9}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.clientes.api\properties\
+i:{d385728f-fb61-4568-a54a-4903b6b929b1}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.pagamento.api\properties\
+i:{269a9a96-cdee-4d05-a583-1da93fa45764}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.pedido.api\properties\
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\properties\
+++launchSettings.json
+i:{d3bd34df-2e62-42fe-af2a-d8aab7b594e2}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.bff.compras\properties\launchsettings.json
+i:{6643a2be-5870-4835-8cf1-b698549cb843}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.carrinho.api\properties\launchsettings.json
+i:{331c007f-ddcd-4596-9f84-3661a3064c00}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.identidade.api\properties\launchsettings.json
+i:{f4a430a8-bd0b-4ef7-a845-700dd8bc3519}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.catalogo.api\properties\launchsettings.json
+i:{567214d8-9d53-4e87-9c81-de6ba0cbfab9}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.clientes.api\properties\launchsettings.json
+i:{d385728f-fb61-4568-a54a-4903b6b929b1}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.pagamento.api\properties\launchsettings.json
+i:{269a9a96-cdee-4d05-a583-1da93fa45764}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.pedido.api\properties\launchsettings.json
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\properties\launchsettings.json
+++Configuration
+i:{d3bd34df-2e62-42fe-af2a-d8aab7b594e2}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.bff.compras\configuration\
+i:{6643a2be-5870-4835-8cf1-b698549cb843}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.carrinho.api\configuration\
+i:{331c007f-ddcd-4596-9f84-3661a3064c00}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.identidade.api\configuration\
+i:{f4a430a8-bd0b-4ef7-a845-700dd8bc3519}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.catalogo.api\configuration\
+i:{567214d8-9d53-4e87-9c81-de6ba0cbfab9}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.clientes.api\configuration\
+i:{d385728f-fb61-4568-a54a-4903b6b929b1}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.pagamento.api\configuration\
+i:{269a9a96-cdee-4d05-a583-1da93fa45764}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.pedido.api\configuration\
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\configuration\
+++Controllers
+i:{d3bd34df-2e62-42fe-af2a-d8aab7b594e2}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.bff.compras\controllers\
+i:{6643a2be-5870-4835-8cf1-b698549cb843}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.carrinho.api\controllers\
+i:{331c007f-ddcd-4596-9f84-3661a3064c00}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.identidade.api\controllers\
+i:{f4a430a8-bd0b-4ef7-a845-700dd8bc3519}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.catalogo.api\controllers\
+i:{567214d8-9d53-4e87-9c81-de6ba0cbfab9}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.clientes.api\controllers\
+i:{d385728f-fb61-4568-a54a-4903b6b929b1}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.pagamento.api\controllers\
+i:{269a9a96-cdee-4d05-a583-1da93fa45764}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.pedido.api\controllers\
+i:{bc8d841b-92b3-42f6-88ec-eb69a97e3fcb}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapi.core\controllers\
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\controllers\
+++CarrinhoController.cs
+i:{d3bd34df-2e62-42fe-af2a-d8aab7b594e2}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.bff.compras\controllers\carrinhocontroller.cs
+i:{6643a2be-5870-4835-8cf1-b698549cb843}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.carrinho.api\controllers\carrinhocontroller.cs
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\controllers\carrinhocontroller.cs
+++PedidoController.cs
+i:{d3bd34df-2e62-42fe-af2a-d8aab7b594e2}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.bff.compras\controllers\pedidocontroller.cs
+i:{269a9a96-cdee-4d05-a583-1da93fa45764}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.pedido.api\controllers\pedidocontroller.cs
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\controllers\pedidocontroller.cs
+++Extensions
+i:{d3bd34df-2e62-42fe-af2a-d8aab7b594e2}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.bff.compras\extensions\
+i:{331c007f-ddcd-4596-9f84-3661a3064c00}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.identidade.api\extensions\
+i:{bc8d841b-92b3-42f6-88ec-eb69a97e3fcb}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapi.core\extensions\
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\extensions\
+++Models
+i:{d3bd34df-2e62-42fe-af2a-d8aab7b594e2}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.bff.compras\models\
+i:{6643a2be-5870-4835-8cf1-b698549cb843}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.carrinho.api\models\
+i:{331c007f-ddcd-4596-9f84-3661a3064c00}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.identidade.api\models\
+i:{f4a430a8-bd0b-4ef7-a845-700dd8bc3519}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.catalogo.api\models\
+i:{567214d8-9d53-4e87-9c81-de6ba0cbfab9}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.clientes.api\models\
+i:{d385728f-fb61-4568-a54a-4903b6b929b1}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.pagamento.api\models\
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\models\
+++Services
+i:{d3bd34df-2e62-42fe-af2a-d8aab7b594e2}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.bff.compras\services\
+i:{e4cce53b-01b5-4b7e-851f-2d07e7d1fb68}:Services
+i:{6643a2be-5870-4835-8cf1-b698549cb843}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.carrinho.api\services\
+i:{567214d8-9d53-4e87-9c81-de6ba0cbfab9}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.clientes.api\services\
+i:{d385728f-fb61-4568-a54a-4903b6b929b1}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.pagamento.api\services\
+i:{dc46c634-ee75-4b61-ac0c-1f1f18d719a6}:Services
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\services\
+++CarrinhoService.cs
+i:{d3bd34df-2e62-42fe-af2a-d8aab7b594e2}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.bff.compras\services\carrinhoservice.cs
+++CatalogoService.cs
+i:{d3bd34df-2e62-42fe-af2a-d8aab7b594e2}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.bff.compras\services\catalogoservice.cs
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\services\catalogoservice.cs
+++ClienteService.cs
+i:{d3bd34df-2e62-42fe-af2a-d8aab7b594e2}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.bff.compras\services\clienteservice.cs
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\services\clienteservice.cs
+++PagamentoService.cs
+i:{d3bd34df-2e62-42fe-af2a-d8aab7b594e2}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.bff.compras\services\pagamentoservice.cs
+i:{d385728f-fb61-4568-a54a-4903b6b929b1}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.pagamento.api\services\pagamentoservice.cs
+++PedidoService.cs
+i:{d3bd34df-2e62-42fe-af2a-d8aab7b594e2}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.bff.compras\services\pedidoservice.cs
+++Service.cs
+i:{d3bd34df-2e62-42fe-af2a-d8aab7b594e2}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.bff.compras\services\service.cs
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\services\service.cs
+++appsettings.json
+i:{d3bd34df-2e62-42fe-af2a-d8aab7b594e2}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.bff.compras\appsettings.json
+i:{6643a2be-5870-4835-8cf1-b698549cb843}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.carrinho.api\appsettings.json
+i:{331c007f-ddcd-4596-9f84-3661a3064c00}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.identidade.api\appsettings.json
+i:{f4a430a8-bd0b-4ef7-a845-700dd8bc3519}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.catalogo.api\appsettings.json
+i:{567214d8-9d53-4e87-9c81-de6ba0cbfab9}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.clientes.api\appsettings.json
+i:{d385728f-fb61-4568-a54a-4903b6b929b1}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.pagamento.api\appsettings.json
+i:{269a9a96-cdee-4d05-a583-1da93fa45764}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.pedido.api\appsettings.json
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\appsettings.json
+++appsettings.Development.json
+i:{d3bd34df-2e62-42fe-af2a-d8aab7b594e2}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.bff.compras\appsettings.development.json
+i:{6643a2be-5870-4835-8cf1-b698549cb843}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.carrinho.api\appsettings.development.json
+i:{331c007f-ddcd-4596-9f84-3661a3064c00}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.identidade.api\appsettings.development.json
+i:{f4a430a8-bd0b-4ef7-a845-700dd8bc3519}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.catalogo.api\appsettings.development.json
+i:{567214d8-9d53-4e87-9c81-de6ba0cbfab9}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.clientes.api\appsettings.development.json
+i:{d385728f-fb61-4568-a54a-4903b6b929b1}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.pagamento.api\appsettings.development.json
+i:{269a9a96-cdee-4d05-a583-1da93fa45764}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.pedido.api\appsettings.development.json
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\appsettings.development.json
+++Dockerfile
+i:{d3bd34df-2e62-42fe-af2a-d8aab7b594e2}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.bff.compras\dockerfile
+i:{6643a2be-5870-4835-8cf1-b698549cb843}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.carrinho.api\dockerfile
+i:{331c007f-ddcd-4596-9f84-3661a3064c00}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.identidade.api\dockerfile
+i:{f4a430a8-bd0b-4ef7-a845-700dd8bc3519}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.catalogo.api\dockerfile
+i:{567214d8-9d53-4e87-9c81-de6ba0cbfab9}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.clientes.api\dockerfile
+i:{d385728f-fb61-4568-a54a-4903b6b929b1}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.pagamento.api\dockerfile
+i:{269a9a96-cdee-4d05-a583-1da93fa45764}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.pedido.api\dockerfile
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\dockerfile
+++Program.cs
+i:{d3bd34df-2e62-42fe-af2a-d8aab7b594e2}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.bff.compras\program.cs
+i:{6643a2be-5870-4835-8cf1-b698549cb843}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.carrinho.api\program.cs
+i:{331c007f-ddcd-4596-9f84-3661a3064c00}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.identidade.api\program.cs
+i:{f4a430a8-bd0b-4ef7-a845-700dd8bc3519}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.catalogo.api\program.cs
+i:{567214d8-9d53-4e87-9c81-de6ba0cbfab9}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.clientes.api\program.cs
+i:{d385728f-fb61-4568-a54a-4903b6b929b1}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.pagamento.api\program.cs
+i:{269a9a96-cdee-4d05-a583-1da93fa45764}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.pedido.api\program.cs
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\program.cs
+++warmup.sem
+i:{d3bd34df-2e62-42fe-af2a-d8aab7b594e2}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.bff.compras\warmup.sem
+++No service dependencies discovered
+i:{d3bd34df-2e62-42fe-af2a-d8aab7b594e2}:>5931
+i:{6643a2be-5870-4835-8cf1-b698549cb843}:>5941
+i:{331c007f-ddcd-4596-9f84-3661a3064c00}:>5937
+i:{f4a430a8-bd0b-4ef7-a845-700dd8bc3519}:>5932
+i:{567214d8-9d53-4e87-9c81-de6ba0cbfab9}:>5935
+i:{d385728f-fb61-4568-a54a-4903b6b929b1}:>5934
+i:{269a9a96-cdee-4d05-a583-1da93fa45764}:>5939
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:>5933
+++Analyzers
+i:{d3bd34df-2e62-42fe-af2a-d8aab7b594e2}:analyzers
+i:{6643a2be-5870-4835-8cf1-b698549cb843}:analyzers
+i:{331c007f-ddcd-4596-9f84-3661a3064c00}:analyzers
+i:{f4a430a8-bd0b-4ef7-a845-700dd8bc3519}:analyzers
+i:{567214d8-9d53-4e87-9c81-de6ba0cbfab9}:analyzers
+i:{d385728f-fb61-4568-a54a-4903b6b929b1}:analyzers
+i:{676f2d71-d53f-447f-861f-5c7466dd7728}:analyzers
+i:{269a9a96-cdee-4d05-a583-1da93fa45764}:analyzers
+i:{b3df315f-9238-4511-aff6-c7675aaffbc0}:analyzers
+i:{34c4de92-cde1-43f3-abf7-a65a00411219}:analyzers
+i:{6c0d96dd-6a02-45ca-965a-c88d15fe2d94}:analyzers
+i:{bc8d841b-92b3-42f6-88ec-eb69a97e3fcb}:analyzers
+i:{547dbb63-81fb-4d17-a94f-1bbdb1c93fe6}:analyzers
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:analyzers
+++Frameworks
+i:{d3bd34df-2e62-42fe-af2a-d8aab7b594e2}:frameworks
+i:{6643a2be-5870-4835-8cf1-b698549cb843}:frameworks
+i:{331c007f-ddcd-4596-9f84-3661a3064c00}:frameworks
+i:{f4a430a8-bd0b-4ef7-a845-700dd8bc3519}:frameworks
+i:{567214d8-9d53-4e87-9c81-de6ba0cbfab9}:frameworks
+i:{d385728f-fb61-4568-a54a-4903b6b929b1}:frameworks
+i:{676f2d71-d53f-447f-861f-5c7466dd7728}:frameworks
+i:{269a9a96-cdee-4d05-a583-1da93fa45764}:frameworks
+i:{b3df315f-9238-4511-aff6-c7675aaffbc0}:frameworks
+i:{34c4de92-cde1-43f3-abf7-a65a00411219}:frameworks
+i:{6c0d96dd-6a02-45ca-965a-c88d15fe2d94}:frameworks
+i:{bc8d841b-92b3-42f6-88ec-eb69a97e3fcb}:frameworks
+i:{547dbb63-81fb-4d17-a94f-1bbdb1c93fe6}:frameworks
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:frameworks
+++Packages
+i:{d3bd34df-2e62-42fe-af2a-d8aab7b594e2}:packages
+i:{6643a2be-5870-4835-8cf1-b698549cb843}:packages
+i:{331c007f-ddcd-4596-9f84-3661a3064c00}:packages
+i:{f4a430a8-bd0b-4ef7-a845-700dd8bc3519}:packages
+i:{567214d8-9d53-4e87-9c81-de6ba0cbfab9}:packages
+i:{d385728f-fb61-4568-a54a-4903b6b929b1}:packages
+i:{269a9a96-cdee-4d05-a583-1da93fa45764}:packages
+i:{34c4de92-cde1-43f3-abf7-a65a00411219}:packages
+i:{6c0d96dd-6a02-45ca-965a-c88d15fe2d94}:packages
+i:{bc8d841b-92b3-42f6-88ec-eb69a97e3fcb}:packages
+i:{547dbb63-81fb-4d17-a94f-1bbdb1c93fe6}:packages
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:packages
+++Projects
+i:{d3bd34df-2e62-42fe-af2a-d8aab7b594e2}:projects
+i:{6643a2be-5870-4835-8cf1-b698549cb843}:projects
+i:{331c007f-ddcd-4596-9f84-3661a3064c00}:projects
+i:{f4a430a8-bd0b-4ef7-a845-700dd8bc3519}:projects
+i:{567214d8-9d53-4e87-9c81-de6ba0cbfab9}:projects
+i:{d385728f-fb61-4568-a54a-4903b6b929b1}:projects
+i:{269a9a96-cdee-4d05-a583-1da93fa45764}:projects
+i:{b3df315f-9238-4511-aff6-c7675aaffbc0}:projects
+i:{34c4de92-cde1-43f3-abf7-a65a00411219}:projects
+i:{bc8d841b-92b3-42f6-88ec-eb69a97e3fcb}:projects
+i:{547dbb63-81fb-4d17-a94f-1bbdb1c93fe6}:projects
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:projects
+++ApiConfig.cs
+i:{d3bd34df-2e62-42fe-af2a-d8aab7b594e2}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.bff.compras\configuration\apiconfig.cs
+i:{6643a2be-5870-4835-8cf1-b698549cb843}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.carrinho.api\configuration\apiconfig.cs
+i:{331c007f-ddcd-4596-9f84-3661a3064c00}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.identidade.api\configuration\apiconfig.cs
+i:{f4a430a8-bd0b-4ef7-a845-700dd8bc3519}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.catalogo.api\configuration\apiconfig.cs
+i:{567214d8-9d53-4e87-9c81-de6ba0cbfab9}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.clientes.api\configuration\apiconfig.cs
+i:{d385728f-fb61-4568-a54a-4903b6b929b1}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.pagamento.api\configuration\apiconfig.cs
+i:{269a9a96-cdee-4d05-a583-1da93fa45764}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.pedido.api\configuration\apiconfig.cs
+++DependencyInjectionConfig.cs
+i:{d3bd34df-2e62-42fe-af2a-d8aab7b594e2}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.bff.compras\configuration\dependencyinjectionconfig.cs
+i:{6643a2be-5870-4835-8cf1-b698549cb843}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.carrinho.api\configuration\dependencyinjectionconfig.cs
+i:{f4a430a8-bd0b-4ef7-a845-700dd8bc3519}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.catalogo.api\configuration\dependencyinjectionconfig.cs
+i:{567214d8-9d53-4e87-9c81-de6ba0cbfab9}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.clientes.api\configuration\dependencyinjectionconfig.cs
+i:{d385728f-fb61-4568-a54a-4903b6b929b1}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.pagamento.api\configuration\dependencyinjectionconfig.cs
+i:{269a9a96-cdee-4d05-a583-1da93fa45764}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.pedido.api\configuration\dependencyinjectionconfig.cs
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\configuration\dependencyinjectionconfig.cs
+++MessageBusConfig.cs
+i:{d3bd34df-2e62-42fe-af2a-d8aab7b594e2}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.bff.compras\configuration\messagebusconfig.cs
+i:{6643a2be-5870-4835-8cf1-b698549cb843}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.carrinho.api\configuration\messagebusconfig.cs
+i:{331c007f-ddcd-4596-9f84-3661a3064c00}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.identidade.api\configuration\messagebusconfig.cs
+i:{567214d8-9d53-4e87-9c81-de6ba0cbfab9}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.clientes.api\configuration\messagebusconfig.cs
+i:{d385728f-fb61-4568-a54a-4903b6b929b1}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.pagamento.api\configuration\messagebusconfig.cs
+i:{269a9a96-cdee-4d05-a583-1da93fa45764}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.pedido.api\configuration\messagebusconfig.cs
+++SwaggerConfig.cs
+i:{d3bd34df-2e62-42fe-af2a-d8aab7b594e2}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.bff.compras\configuration\swaggerconfig.cs
+i:{6643a2be-5870-4835-8cf1-b698549cb843}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.carrinho.api\configuration\swaggerconfig.cs
+i:{331c007f-ddcd-4596-9f84-3661a3064c00}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.identidade.api\configuration\swaggerconfig.cs
+i:{f4a430a8-bd0b-4ef7-a845-700dd8bc3519}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.catalogo.api\configuration\swaggerconfig.cs
+i:{567214d8-9d53-4e87-9c81-de6ba0cbfab9}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.clientes.api\configuration\swaggerconfig.cs
+i:{d385728f-fb61-4568-a54a-4903b6b929b1}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.pagamento.api\configuration\swaggerconfig.cs
+i:{269a9a96-cdee-4d05-a583-1da93fa45764}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.pedido.api\configuration\swaggerconfig.cs
+++AppServicesSettings.cs
+i:{d3bd34df-2e62-42fe-af2a-d8aab7b594e2}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.bff.compras\extensions\appservicessettings.cs
+++HttpClientAuthorizationDelegatingHandler.cs
+i:{d3bd34df-2e62-42fe-af2a-d8aab7b594e2}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.bff.compras\extensions\httpclientauthorizationdelegatinghandler.cs
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\services\handlers\httpclientauthorizationdelegatinghandler.cs
+++CarrinhoDTO.cs
+i:{d3bd34df-2e62-42fe-af2a-d8aab7b594e2}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.bff.compras\models\carrinhodto.cs
+++EnderecoDTO.cs
+i:{d3bd34df-2e62-42fe-af2a-d8aab7b594e2}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.bff.compras\models\enderecodto.cs
+i:{269a9a96-cdee-4d05-a583-1da93fa45764}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.pedido.api\application\dto\enderecodto.cs
+++ItemCarrinhoDTO.cs
+i:{d3bd34df-2e62-42fe-af2a-d8aab7b594e2}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.bff.compras\models\itemcarrinhodto.cs
+++ItemProdutoDTO.cs
+i:{d3bd34df-2e62-42fe-af2a-d8aab7b594e2}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.bff.compras\models\itemprodutodto.cs
+++PedidoDTO.cs
+i:{d3bd34df-2e62-42fe-af2a-d8aab7b594e2}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.bff.compras\models\pedidodto.cs
+i:{269a9a96-cdee-4d05-a583-1da93fa45764}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.pedido.api\application\dto\pedidodto.cs
+++VoucherDTO.cs
+i:{d3bd34df-2e62-42fe-af2a-d8aab7b594e2}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.bff.compras\models\voucherdto.cs
+i:{269a9a96-cdee-4d05-a583-1da93fa45764}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.pedido.api\application\dto\voucherdto.cs
+++.dockerignore
+i:{d3bd34df-2e62-42fe-af2a-d8aab7b594e2}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\.dockerignore
+i:{6643a2be-5870-4835-8cf1-b698549cb843}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\.dockerignore
+i:{331c007f-ddcd-4596-9f84-3661a3064c00}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\.dockerignore
+i:{f4a430a8-bd0b-4ef7-a845-700dd8bc3519}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\.dockerignore
+i:{567214d8-9d53-4e87-9c81-de6ba0cbfab9}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\.dockerignore
+i:{d385728f-fb61-4568-a54a-4903b6b929b1}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\.dockerignore
+i:{269a9a96-cdee-4d05-a583-1da93fa45764}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\.dockerignore
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\.dockerignore
+++Microsoft.AspNetCore.Analyzers
+i:{d3bd34df-2e62-42fe-af2a-d8aab7b594e2}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+i:{6643a2be-5870-4835-8cf1-b698549cb843}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+i:{331c007f-ddcd-4596-9f84-3661a3064c00}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+i:{f4a430a8-bd0b-4ef7-a845-700dd8bc3519}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+i:{567214d8-9d53-4e87-9c81-de6ba0cbfab9}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+i:{d385728f-fb61-4568-a54a-4903b6b929b1}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+i:{269a9a96-cdee-4d05-a583-1da93fa45764}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{d3bd34df-2e62-42fe-af2a-d8aab7b594e2}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+i:{6643a2be-5870-4835-8cf1-b698549cb843}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+i:{331c007f-ddcd-4596-9f84-3661a3064c00}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+i:{f4a430a8-bd0b-4ef7-a845-700dd8bc3519}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+i:{567214d8-9d53-4e87-9c81-de6ba0cbfab9}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+i:{d385728f-fb61-4568-a54a-4903b6b929b1}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+i:{269a9a96-cdee-4d05-a583-1da93fa45764}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+i:{bc8d841b-92b3-42f6-88ec-eb69a97e3fcb}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{d3bd34df-2e62-42fe-af2a-d8aab7b594e2}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+i:{6643a2be-5870-4835-8cf1-b698549cb843}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+i:{331c007f-ddcd-4596-9f84-3661a3064c00}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+i:{f4a430a8-bd0b-4ef7-a845-700dd8bc3519}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+i:{567214d8-9d53-4e87-9c81-de6ba0cbfab9}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+i:{d385728f-fb61-4568-a54a-4903b6b929b1}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+i:{269a9a96-cdee-4d05-a583-1da93fa45764}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+i:{bc8d841b-92b3-42f6-88ec-eb69a97e3fcb}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{d3bd34df-2e62-42fe-af2a-d8aab7b594e2}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+i:{6643a2be-5870-4835-8cf1-b698549cb843}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+i:{331c007f-ddcd-4596-9f84-3661a3064c00}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+i:{f4a430a8-bd0b-4ef7-a845-700dd8bc3519}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+i:{567214d8-9d53-4e87-9c81-de6ba0cbfab9}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+i:{d385728f-fb61-4568-a54a-4903b6b929b1}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+i:{269a9a96-cdee-4d05-a583-1da93fa45764}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{d3bd34df-2e62-42fe-af2a-d8aab7b594e2}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+i:{6643a2be-5870-4835-8cf1-b698549cb843}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+i:{331c007f-ddcd-4596-9f84-3661a3064c00}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+i:{f4a430a8-bd0b-4ef7-a845-700dd8bc3519}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+i:{567214d8-9d53-4e87-9c81-de6ba0cbfab9}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+i:{d385728f-fb61-4568-a54a-4903b6b929b1}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+i:{269a9a96-cdee-4d05-a583-1da93fa45764}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.Internal.SourceGenerator.Transport
+i:{d3bd34df-2e62-42fe-af2a-d8aab7b594e2}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.internal.sourcegenerator.transport.dll
+i:{6643a2be-5870-4835-8cf1-b698549cb843}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.internal.sourcegenerator.transport.dll
+i:{331c007f-ddcd-4596-9f84-3661a3064c00}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.internal.sourcegenerator.transport.dll
+i:{f4a430a8-bd0b-4ef7-a845-700dd8bc3519}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.internal.sourcegenerator.transport.dll
+i:{567214d8-9d53-4e87-9c81-de6ba0cbfab9}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.internal.sourcegenerator.transport.dll
+i:{d385728f-fb61-4568-a54a-4903b6b929b1}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.internal.sourcegenerator.transport.dll
+i:{269a9a96-cdee-4d05-a583-1da93fa45764}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.internal.sourcegenerator.transport.dll
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.internal.sourcegenerator.transport.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{d3bd34df-2e62-42fe-af2a-d8aab7b594e2}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{6643a2be-5870-4835-8cf1-b698549cb843}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{331c007f-ddcd-4596-9f84-3661a3064c00}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{f4a430a8-bd0b-4ef7-a845-700dd8bc3519}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{567214d8-9d53-4e87-9c81-de6ba0cbfab9}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{d385728f-fb61-4568-a54a-4903b6b929b1}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{676f2d71-d53f-447f-861f-5c7466dd7728}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{269a9a96-cdee-4d05-a583-1da93fa45764}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{b3df315f-9238-4511-aff6-c7675aaffbc0}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{34c4de92-cde1-43f3-abf7-a65a00411219}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{6c0d96dd-6a02-45ca-965a-c88d15fe2d94}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{bc8d841b-92b3-42f6-88ec-eb69a97e3fcb}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{547dbb63-81fb-4d17-a94f-1bbdb1c93fe6}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{d3bd34df-2e62-42fe-af2a-d8aab7b594e2}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{6643a2be-5870-4835-8cf1-b698549cb843}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{331c007f-ddcd-4596-9f84-3661a3064c00}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{f4a430a8-bd0b-4ef7-a845-700dd8bc3519}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{567214d8-9d53-4e87-9c81-de6ba0cbfab9}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{d385728f-fb61-4568-a54a-4903b6b929b1}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{676f2d71-d53f-447f-861f-5c7466dd7728}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{269a9a96-cdee-4d05-a583-1da93fa45764}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{b3df315f-9238-4511-aff6-c7675aaffbc0}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{34c4de92-cde1-43f3-abf7-a65a00411219}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{6c0d96dd-6a02-45ca-965a-c88d15fe2d94}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{bc8d841b-92b3-42f6-88ec-eb69a97e3fcb}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{547dbb63-81fb-4d17-a94f-1bbdb1c93fe6}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{d3bd34df-2e62-42fe-af2a-d8aab7b594e2}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{6643a2be-5870-4835-8cf1-b698549cb843}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{331c007f-ddcd-4596-9f84-3661a3064c00}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{f4a430a8-bd0b-4ef7-a845-700dd8bc3519}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{567214d8-9d53-4e87-9c81-de6ba0cbfab9}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{d385728f-fb61-4568-a54a-4903b6b929b1}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{269a9a96-cdee-4d05-a583-1da93fa45764}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{34c4de92-cde1-43f3-abf7-a65a00411219}:c:\users\jesiel\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{bc8d841b-92b3-42f6-88ec-eb69a97e3fcb}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{547dbb63-81fb-4d17-a94f-1bbdb1c93fe6}:c:\users\jesiel\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{d3bd34df-2e62-42fe-af2a-d8aab7b594e2}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+i:{6643a2be-5870-4835-8cf1-b698549cb843}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+i:{331c007f-ddcd-4596-9f84-3661a3064c00}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+i:{f4a430a8-bd0b-4ef7-a845-700dd8bc3519}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+i:{567214d8-9d53-4e87-9c81-de6ba0cbfab9}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+i:{d385728f-fb61-4568-a54a-4903b6b929b1}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+i:{269a9a96-cdee-4d05-a583-1da93fa45764}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++System.Text.Json.SourceGeneration
+i:{d3bd34df-2e62-42fe-af2a-d8aab7b594e2}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{6643a2be-5870-4835-8cf1-b698549cb843}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{331c007f-ddcd-4596-9f84-3661a3064c00}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{f4a430a8-bd0b-4ef7-a845-700dd8bc3519}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{567214d8-9d53-4e87-9c81-de6ba0cbfab9}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{d385728f-fb61-4568-a54a-4903b6b929b1}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{676f2d71-d53f-447f-861f-5c7466dd7728}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{269a9a96-cdee-4d05-a583-1da93fa45764}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{b3df315f-9238-4511-aff6-c7675aaffbc0}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{34c4de92-cde1-43f3-abf7-a65a00411219}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{6c0d96dd-6a02-45ca-965a-c88d15fe2d94}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{bc8d841b-92b3-42f6-88ec-eb69a97e3fcb}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{547dbb63-81fb-4d17-a94f-1bbdb1c93fe6}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.AspNetCore.App
+i:{d3bd34df-2e62-42fe-af2a-d8aab7b594e2}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.bff.compras\microsoft.aspnetcore.app
+i:{6643a2be-5870-4835-8cf1-b698549cb843}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.carrinho.api\microsoft.aspnetcore.app
+i:{331c007f-ddcd-4596-9f84-3661a3064c00}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.identidade.api\microsoft.aspnetcore.app
+i:{f4a430a8-bd0b-4ef7-a845-700dd8bc3519}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.catalogo.api\microsoft.aspnetcore.app
+i:{567214d8-9d53-4e87-9c81-de6ba0cbfab9}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.clientes.api\microsoft.aspnetcore.app
+i:{d385728f-fb61-4568-a54a-4903b6b929b1}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.pagamento.api\microsoft.aspnetcore.app
+i:{269a9a96-cdee-4d05-a583-1da93fa45764}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.pedido.api\microsoft.aspnetcore.app
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{d3bd34df-2e62-42fe-af2a-d8aab7b594e2}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.bff.compras\microsoft.netcore.app
+i:{6643a2be-5870-4835-8cf1-b698549cb843}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.carrinho.api\microsoft.netcore.app
+i:{331c007f-ddcd-4596-9f84-3661a3064c00}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.identidade.api\microsoft.netcore.app
+i:{f4a430a8-bd0b-4ef7-a845-700dd8bc3519}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.catalogo.api\microsoft.netcore.app
+i:{567214d8-9d53-4e87-9c81-de6ba0cbfab9}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.clientes.api\microsoft.netcore.app
+i:{d385728f-fb61-4568-a54a-4903b6b929b1}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.pagamento.api\microsoft.netcore.app
+i:{676f2d71-d53f-447f-861f-5c7466dd7728}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.pagamentos.nerdspag\microsoft.netcore.app
+i:{269a9a96-cdee-4d05-a583-1da93fa45764}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.pedido.api\microsoft.netcore.app
+i:{b3df315f-9238-4511-aff6-c7675aaffbc0}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.pedido.domain\microsoft.netcore.app
+i:{34c4de92-cde1-43f3-abf7-a65a00411219}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.pedido.infra\microsoft.netcore.app
+i:{6c0d96dd-6a02-45ca-965a-c88d15fe2d94}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.core\microsoft.netcore.app
+i:{bc8d841b-92b3-42f6-88ec-eb69a97e3fcb}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapi.core\microsoft.netcore.app
+i:{547dbb63-81fb-4d17-a94f-1bbdb1c93fe6}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.messagebus\microsoft.netcore.app
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\microsoft.netcore.app
+++Microsoft.Extensions.Http.Polly (6.0.0)
+i:{d3bd34df-2e62-42fe-af2a-d8aab7b594e2}:>6161
+i:{bc8d841b-92b3-42f6-88ec-eb69a97e3fcb}:>6125
+i:{547dbb63-81fb-4d17-a94f-1bbdb1c93fe6}:>6105
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:>5998
+++Microsoft.VisualStudio.Azure.Containers.Tools.Targets (1.14.0)
+i:{d3bd34df-2e62-42fe-af2a-d8aab7b594e2}:>6158
+i:{6643a2be-5870-4835-8cf1-b698549cb843}:>6183
+i:{331c007f-ddcd-4596-9f84-3661a3064c00}:>5967
+i:{567214d8-9d53-4e87-9c81-de6ba0cbfab9}:>6194
+i:{d385728f-fb61-4568-a54a-4903b6b929b1}:>6029
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:>5996
+++Swashbuckle.AspNetCore (6.2.3)
+i:{d3bd34df-2e62-42fe-af2a-d8aab7b594e2}:>6154
+i:{6643a2be-5870-4835-8cf1-b698549cb843}:>6167
+i:{331c007f-ddcd-4596-9f84-3661a3064c00}:>5961
+i:{567214d8-9d53-4e87-9c81-de6ba0cbfab9}:>6169
+i:{d385728f-fb61-4568-a54a-4903b6b929b1}:>6025
+++NSE.Core
+i:{d3bd34df-2e62-42fe-af2a-d8aab7b594e2}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.core\bin\debug\net6.0\nse.core.dll
+i:{331c007f-ddcd-4596-9f84-3661a3064c00}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.core\bin\debug\net6.0\nse.core.dll
+i:{f4a430a8-bd0b-4ef7-a845-700dd8bc3519}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.core\bin\debug\net6.0\nse.core.dll
+i:{567214d8-9d53-4e87-9c81-de6ba0cbfab9}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.core\bin\debug\net6.0\nse.core.dll
+i:{d385728f-fb61-4568-a54a-4903b6b929b1}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.core\nse.core.csproj
+i:{269a9a96-cdee-4d05-a583-1da93fa45764}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.core\bin\debug\net6.0\nse.core.dll
+i:{b3df315f-9238-4511-aff6-c7675aaffbc0}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.core\bin\debug\net6.0\nse.core.dll
+i:{34c4de92-cde1-43f3-abf7-a65a00411219}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.core\bin\debug\net6.0\nse.core.dll
+i:{b44b0196-b879-4868-a65e-8708e271b67e}:NSE.Core
+i:{bc8d841b-92b3-42f6-88ec-eb69a97e3fcb}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.core\bin\debug\net6.0\nse.core.dll
+i:{547dbb63-81fb-4d17-a94f-1bbdb1c93fe6}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.core\bin\debug\net6.0\nse.core.dll
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.core\bin\debug\net6.0\nse.core.dll
+++NSE.MessageBus
+i:{d3bd34df-2e62-42fe-af2a-d8aab7b594e2}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.messagebus\bin\debug\net6.0\nse.messagebus.dll
+i:{6643a2be-5870-4835-8cf1-b698549cb843}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.messagebus\bin\debug\net6.0\nse.messagebus.dll
+i:{331c007f-ddcd-4596-9f84-3661a3064c00}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.messagebus\bin\debug\net6.0\nse.messagebus.dll
+i:{567214d8-9d53-4e87-9c81-de6ba0cbfab9}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.messagebus\bin\debug\net6.0\nse.messagebus.dll
+i:{d385728f-fb61-4568-a54a-4903b6b929b1}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.messagebus\nse.messagebus.csproj
+i:{269a9a96-cdee-4d05-a583-1da93fa45764}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.messagebus\bin\debug\net6.0\nse.messagebus.dll
+i:{16cb540a-c24a-461b-8088-6d1cf4ee8cf7}:NSE.MessageBus
+++NSE.WebAPI.Core
+i:{d3bd34df-2e62-42fe-af2a-d8aab7b594e2}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapi.core\bin\debug\net6.0\nse.webapi.core.dll
+i:{6643a2be-5870-4835-8cf1-b698549cb843}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapi.core\bin\debug\net6.0\nse.webapi.core.dll
+i:{331c007f-ddcd-4596-9f84-3661a3064c00}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapi.core\bin\debug\net6.0\nse.webapi.core.dll
+i:{f4a430a8-bd0b-4ef7-a845-700dd8bc3519}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapi.core\bin\debug\net6.0\nse.webapi.core.dll
+i:{567214d8-9d53-4e87-9c81-de6ba0cbfab9}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapi.core\bin\debug\net6.0\nse.webapi.core.dll
+i:{d385728f-fb61-4568-a54a-4903b6b929b1}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapi.core\nse.webapi.core.csproj
+i:{269a9a96-cdee-4d05-a583-1da93fa45764}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapi.core\bin\debug\net6.0\nse.webapi.core.dll
+i:{9561299a-216c-469f-a083-ef2edc9e37c3}:NSE.WebAPI.Core
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapi.core\bin\debug\net6.0\nse.webapi.core.dll
+++Carrinho
+i:{00305a17-dcb7-49f5-803d-754695130a3c}:Carrinho
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\views\carrinho\
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\views\shared\components\carrinho\
+++NSE.Carrinho.API
+i:{f3c6ce4c-5769-4b1a-a1bb-d7763a77c314}:NSE.Carrinho.API
+++Data
+i:{6643a2be-5870-4835-8cf1-b698549cb843}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.carrinho.api\data\
+i:{331c007f-ddcd-4596-9f84-3661a3064c00}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.identidade.api\data\
+i:{f4a430a8-bd0b-4ef7-a845-700dd8bc3519}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.catalogo.api\data\
+i:{567214d8-9d53-4e87-9c81-de6ba0cbfab9}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.clientes.api\data\
+i:{d385728f-fb61-4568-a54a-4903b6b929b1}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.pagamento.api\data\
+i:{34c4de92-cde1-43f3-abf7-a65a00411219}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.pedido.infra\data\
+i:{6c0d96dd-6a02-45ca-965a-c88d15fe2d94}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.core\data\
+++Migrations
+i:{6643a2be-5870-4835-8cf1-b698549cb843}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.carrinho.api\migrations\
+i:{331c007f-ddcd-4596-9f84-3661a3064c00}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.identidade.api\migrations\
+i:{f4a430a8-bd0b-4ef7-a845-700dd8bc3519}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.catalogo.api\migrations\
+i:{567214d8-9d53-4e87-9c81-de6ba0cbfab9}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.clientes.api\migrations\
+i:{d385728f-fb61-4568-a54a-4903b6b929b1}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.pagamento.api\migrations\
+i:{34c4de92-cde1-43f3-abf7-a65a00411219}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.pedido.infra\migrations\
+++Startup.cs
+i:{6643a2be-5870-4835-8cf1-b698549cb843}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.carrinho.api\startup.cs
+i:{331c007f-ddcd-4596-9f84-3661a3064c00}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.identidade.api\startup.cs
+i:{f4a430a8-bd0b-4ef7-a845-700dd8bc3519}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.catalogo.api\startup.cs
+i:{567214d8-9d53-4e87-9c81-de6ba0cbfab9}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.clientes.api\startup.cs
+i:{d385728f-fb61-4568-a54a-4903b6b929b1}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.pagamento.api\startup.cs
+i:{269a9a96-cdee-4d05-a583-1da93fa45764}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.pedido.api\startup.cs
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\startup.cs
+++CarrinhoContext.cs
+i:{6643a2be-5870-4835-8cf1-b698549cb843}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.carrinho.api\data\carrinhocontext.cs
+++20211209221705_Initial.cs
+i:{6643a2be-5870-4835-8cf1-b698549cb843}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.carrinho.api\migrations\20211209221705_initial.cs
+++20220103220926_Voucher.cs
+i:{6643a2be-5870-4835-8cf1-b698549cb843}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.carrinho.api\migrations\20220103220926_voucher.cs
+++20220110225015_CarrinhoCascade.cs
+i:{6643a2be-5870-4835-8cf1-b698549cb843}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.carrinho.api\migrations\20220110225015_carrinhocascade.cs
+++CarrinhoContextModelSnapshot.cs
+i:{6643a2be-5870-4835-8cf1-b698549cb843}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.carrinho.api\migrations\carrinhocontextmodelsnapshot.cs
+++CarrinhoCliente.cs
+i:{6643a2be-5870-4835-8cf1-b698549cb843}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.carrinho.api\models\carrinhocliente.cs
+++CarrinhoItem.cs
+i:{6643a2be-5870-4835-8cf1-b698549cb843}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.carrinho.api\models\carrinhoitem.cs
+++Voucher.cs
+i:{6643a2be-5870-4835-8cf1-b698549cb843}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.carrinho.api\models\voucher.cs
+i:{b3df315f-9238-4511-aff6-c7675aaffbc0}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.pedido.domain\vouchers\voucher.cs
+++CarrinhoIntegrationHandler.cs
+i:{6643a2be-5870-4835-8cf1-b698549cb843}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.carrinho.api\services\carrinhointegrationhandler.cs
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{6643a2be-5870-4835-8cf1-b698549cb843}:c:\users\jesiel\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.0\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{331c007f-ddcd-4596-9f84-3661a3064c00}:c:\users\jesiel\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.0\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{f4a430a8-bd0b-4ef7-a845-700dd8bc3519}:c:\users\jesiel\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.0\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{567214d8-9d53-4e87-9c81-de6ba0cbfab9}:c:\users\jesiel\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.0\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{d385728f-fb61-4568-a54a-4903b6b929b1}:c:\users\jesiel\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.0\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{269a9a96-cdee-4d05-a583-1da93fa45764}:c:\users\jesiel\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.0\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{34c4de92-cde1-43f3-abf7-a65a00411219}:c:\users\jesiel\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.0\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++MediatR.Extensions.Microsoft.DependencyInjection (9.0.0)
+i:{6643a2be-5870-4835-8cf1-b698549cb843}:>6187
+i:{567214d8-9d53-4e87-9c81-de6ba0cbfab9}:>6198
+i:{269a9a96-cdee-4d05-a583-1da93fa45764}:>6171
+++Microsoft.EntityFrameworkCore (6.0.0)
+i:{6643a2be-5870-4835-8cf1-b698549cb843}:>6159
+i:{331c007f-ddcd-4596-9f84-3661a3064c00}:>5959
+i:{f4a430a8-bd0b-4ef7-a845-700dd8bc3519}:>6156
+i:{567214d8-9d53-4e87-9c81-de6ba0cbfab9}:>6155
+i:{d385728f-fb61-4568-a54a-4903b6b929b1}:>6023
+i:{34c4de92-cde1-43f3-abf7-a65a00411219}:>6219
+++Microsoft.EntityFrameworkCore.Abstractions (6.0.0)
+i:{6643a2be-5870-4835-8cf1-b698549cb843}:>6177
+i:{331c007f-ddcd-4596-9f84-3661a3064c00}:>5964
+i:{f4a430a8-bd0b-4ef7-a845-700dd8bc3519}:>6181
+i:{567214d8-9d53-4e87-9c81-de6ba0cbfab9}:>6182
+i:{d385728f-fb61-4568-a54a-4903b6b929b1}:>6027
+i:{34c4de92-cde1-43f3-abf7-a65a00411219}:>6222
+++Microsoft.EntityFrameworkCore.Relational (6.0.0)
+i:{6643a2be-5870-4835-8cf1-b698549cb843}:>6172
+i:{331c007f-ddcd-4596-9f84-3661a3064c00}:>5963
+i:{f4a430a8-bd0b-4ef7-a845-700dd8bc3519}:>6173
+i:{567214d8-9d53-4e87-9c81-de6ba0cbfab9}:>6174
+i:{d385728f-fb61-4568-a54a-4903b6b929b1}:>6026
+i:{34c4de92-cde1-43f3-abf7-a65a00411219}:>6221
+++Microsoft.EntityFrameworkCore.SqlServer (6.0.0)
+i:{6643a2be-5870-4835-8cf1-b698549cb843}:>6164
+i:{331c007f-ddcd-4596-9f84-3661a3064c00}:>5960
+i:{f4a430a8-bd0b-4ef7-a845-700dd8bc3519}:>6163
+i:{567214d8-9d53-4e87-9c81-de6ba0cbfab9}:>6162
+i:{d385728f-fb61-4568-a54a-4903b6b929b1}:>6024
+i:{34c4de92-cde1-43f3-abf7-a65a00411219}:>6220
+++Microsoft.EntityFrameworkCore.Tools (6.0.0)
+i:{6643a2be-5870-4835-8cf1-b698549cb843}:>6180
+i:{331c007f-ddcd-4596-9f84-3661a3064c00}:>5966
+i:{f4a430a8-bd0b-4ef7-a845-700dd8bc3519}:>6185
+i:{567214d8-9d53-4e87-9c81-de6ba0cbfab9}:>6186
+i:{d385728f-fb61-4568-a54a-4903b6b929b1}:>6028
+i:{34c4de92-cde1-43f3-abf7-a65a00411219}:>6223
+++20211209221705_Initial.Designer.cs
+i:{6643a2be-5870-4835-8cf1-b698549cb843}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.carrinho.api\migrations\20211209221705_initial.designer.cs
+++20220103220926_Voucher.Designer.cs
+i:{6643a2be-5870-4835-8cf1-b698549cb843}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.carrinho.api\migrations\20220103220926_voucher.designer.cs
+++20220110225015_CarrinhoCascade.Designer.cs
+i:{6643a2be-5870-4835-8cf1-b698549cb843}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.carrinho.api\migrations\20220110225015_carrinhocascade.designer.cs
+++Identidade
+i:{00305a17-dcb7-49f5-803d-754695130a3c}:Identidade
+i:{bc8d841b-92b3-42f6-88ec-eb69a97e3fcb}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapi.core\identidade\
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\views\identidade\
+++NSE.Identidade.API
+i:{497a7bf2-373b-4df6-863f-8eb2cc29f19c}:NSE.Identidade.API
+++IdentityConfig.cs
+i:{331c007f-ddcd-4596-9f84-3661a3064c00}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.identidade.api\configuration\identityconfig.cs
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\configuration\identityconfig.cs
+++AuthController.cs
+i:{331c007f-ddcd-4596-9f84-3661a3064c00}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.identidade.api\controllers\authcontroller.cs
+++ApplicationDbContext.cs
+i:{331c007f-ddcd-4596-9f84-3661a3064c00}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.identidade.api\data\applicationdbcontext.cs
+++IdentityMensagensPortugues.cs
+i:{331c007f-ddcd-4596-9f84-3661a3064c00}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.identidade.api\extensions\identitymensagensportugues.cs
+++20211119234829_Initial.cs
+i:{331c007f-ddcd-4596-9f84-3661a3064c00}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.identidade.api\migrations\20211119234829_initial.cs
+++ApplicationDbContextModelSnapshot.cs
+i:{331c007f-ddcd-4596-9f84-3661a3064c00}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.identidade.api\migrations\applicationdbcontextmodelsnapshot.cs
+++UserViewModels.cs
+i:{331c007f-ddcd-4596-9f84-3661a3064c00}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.identidade.api\models\userviewmodels.cs
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\models\userviewmodels.cs
+++Microsoft.AspNetCore.Authentication.JwtBearer (6.0.0)
+i:{331c007f-ddcd-4596-9f84-3661a3064c00}:>5965
+i:{bc8d841b-92b3-42f6-88ec-eb69a97e3fcb}:>6119
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:>5995
+++Microsoft.AspNetCore.Identity.EntityFrameworkCore (6.0.0)
+i:{331c007f-ddcd-4596-9f84-3661a3064c00}:>5962
+++Microsoft.AspNetCore.Identity.UI (6.0.0)
+i:{331c007f-ddcd-4596-9f84-3661a3064c00}:>5968
+++20211119234829_Initial.Designer.cs
+i:{331c007f-ddcd-4596-9f84-3661a3064c00}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.identidade.api\migrations\20211119234829_initial.designer.cs
+++Catalogo
+i:{00305a17-dcb7-49f5-803d-754695130a3c}:Catalogo
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\views\catalogo\
+++NSE.Catalogo.API
+i:{c7473afd-c8c3-4772-a4b3-c30ac1a309e9}:NSE.Catalogo.API
+++CatalagoController.cs
+i:{f4a430a8-bd0b-4ef7-a845-700dd8bc3519}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.catalogo.api\controllers\catalagocontroller.cs
+++Mappings
+i:{f4a430a8-bd0b-4ef7-a845-700dd8bc3519}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.catalogo.api\data\mappings\
+i:{567214d8-9d53-4e87-9c81-de6ba0cbfab9}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.clientes.api\data\mappings\
+i:{d385728f-fb61-4568-a54a-4903b6b929b1}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.pagamento.api\data\mappings\
+i:{34c4de92-cde1-43f3-abf7-a65a00411219}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.pedido.infra\data\mappings\
+++Repositories
+i:{f4a430a8-bd0b-4ef7-a845-700dd8bc3519}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.catalogo.api\data\repositories\
+i:{567214d8-9d53-4e87-9c81-de6ba0cbfab9}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.clientes.api\data\repositories\
+i:{d385728f-fb61-4568-a54a-4903b6b929b1}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.pagamento.api\data\repositories\
+i:{34c4de92-cde1-43f3-abf7-a65a00411219}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.pedido.infra\data\repositories\
+++CatalogoContext.cs
+i:{f4a430a8-bd0b-4ef7-a845-700dd8bc3519}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.catalogo.api\data\catalogocontext.cs
+++20211129204138_Initial.cs
+i:{f4a430a8-bd0b-4ef7-a845-700dd8bc3519}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.catalogo.api\migrations\20211129204138_initial.cs
+++CatalogoContextModelSnapshot.cs
+i:{f4a430a8-bd0b-4ef7-a845-700dd8bc3519}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.catalogo.api\migrations\catalogocontextmodelsnapshot.cs
+++IProdutoRepository.cs
+i:{f4a430a8-bd0b-4ef7-a845-700dd8bc3519}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.catalogo.api\models\iprodutorepository.cs
+++Produto.cs
+i:{f4a430a8-bd0b-4ef7-a845-700dd8bc3519}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.catalogo.api\models\produto.cs
+++Microsoft.VisualStudio.Azure.Containers.Tools.Targets (1.11.1)
+i:{f4a430a8-bd0b-4ef7-a845-700dd8bc3519}:>6189
+i:{269a9a96-cdee-4d05-a583-1da93fa45764}:>6166
+++Swashbuckle.AspNetCore (5.6.3)
+i:{f4a430a8-bd0b-4ef7-a845-700dd8bc3519}:>6168
+i:{269a9a96-cdee-4d05-a583-1da93fa45764}:>6157
+++ProdutoMapping.cs
+i:{f4a430a8-bd0b-4ef7-a845-700dd8bc3519}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.catalogo.api\data\mappings\produtomapping.cs
+++ProdutoRepository.cs
+i:{f4a430a8-bd0b-4ef7-a845-700dd8bc3519}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.catalogo.api\data\repositories\produtorepository.cs
+++20211129204138_Initial.Designer.cs
+i:{f4a430a8-bd0b-4ef7-a845-700dd8bc3519}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.catalogo.api\migrations\20211129204138_initial.designer.cs
+++Cliente
+i:{00305a17-dcb7-49f5-803d-754695130a3c}:Cliente
+++NSE.Clientes.API
+i:{7551e96a-e7ea-4a55-8cf3-0468093e44c1}:NSE.Clientes.API
+++Application
+i:{567214d8-9d53-4e87-9c81-de6ba0cbfab9}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.clientes.api\application\
+i:{269a9a96-cdee-4d05-a583-1da93fa45764}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.pedido.api\application\
+++Commands
+i:{567214d8-9d53-4e87-9c81-de6ba0cbfab9}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.clientes.api\application\commands\
+i:{269a9a96-cdee-4d05-a583-1da93fa45764}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.pedido.api\application\commands\
+++Events
+i:{567214d8-9d53-4e87-9c81-de6ba0cbfab9}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.clientes.api\application\events\
+i:{269a9a96-cdee-4d05-a583-1da93fa45764}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.pedido.api\application\events\
+++ClienteController.cs
+i:{567214d8-9d53-4e87-9c81-de6ba0cbfab9}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.clientes.api\controllers\clientecontroller.cs
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\controllers\clientecontroller.cs
+++ClienteContext.cs
+i:{567214d8-9d53-4e87-9c81-de6ba0cbfab9}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.clientes.api\data\clientecontext.cs
+++20211202174517_Initial.cs
+i:{567214d8-9d53-4e87-9c81-de6ba0cbfab9}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.clientes.api\migrations\20211202174517_initial.cs
+++ClienteContextModelSnapshot.cs
+i:{567214d8-9d53-4e87-9c81-de6ba0cbfab9}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.clientes.api\migrations\clientecontextmodelsnapshot.cs
+++Cliente.cs
+i:{567214d8-9d53-4e87-9c81-de6ba0cbfab9}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.clientes.api\models\cliente.cs
+++Endereco.cs
+i:{567214d8-9d53-4e87-9c81-de6ba0cbfab9}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.clientes.api\models\endereco.cs
+i:{b3df315f-9238-4511-aff6-c7675aaffbc0}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.pedido.domain\pedidos\endereco.cs
+++IClienteRepository.cs
+i:{567214d8-9d53-4e87-9c81-de6ba0cbfab9}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.clientes.api\models\iclienterepository.cs
+++RegistroClienteIntegrationHandler.cs
+i:{567214d8-9d53-4e87-9c81-de6ba0cbfab9}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.clientes.api\services\registroclienteintegrationhandler.cs
+++AdicionarEnderecoCommand.cs
+i:{567214d8-9d53-4e87-9c81-de6ba0cbfab9}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.clientes.api\application\commands\adicionarenderecocommand.cs
+++ClienteCommandHandler.cs
+i:{567214d8-9d53-4e87-9c81-de6ba0cbfab9}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.clientes.api\application\commands\clientecommandhandler.cs
+++RegistrarClienteCommand.cs
+i:{567214d8-9d53-4e87-9c81-de6ba0cbfab9}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.clientes.api\application\commands\registrarclientecommand.cs
+++ClienteEventHandler.cs
+i:{567214d8-9d53-4e87-9c81-de6ba0cbfab9}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.clientes.api\application\events\clienteeventhandler.cs
+++ClienteRegistradoEvent.cs
+i:{567214d8-9d53-4e87-9c81-de6ba0cbfab9}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.clientes.api\application\events\clienteregistradoevent.cs
+++ClienteMapping.cs
+i:{567214d8-9d53-4e87-9c81-de6ba0cbfab9}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.clientes.api\data\mappings\clientemapping.cs
+++EnderecoMapping.cs
+i:{567214d8-9d53-4e87-9c81-de6ba0cbfab9}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.clientes.api\data\mappings\enderecomapping.cs
+++ClienteRepository.cs
+i:{567214d8-9d53-4e87-9c81-de6ba0cbfab9}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.clientes.api\data\repositories\clienterepository.cs
+++20211202174517_Initial.Designer.cs
+i:{567214d8-9d53-4e87-9c81-de6ba0cbfab9}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.clientes.api\migrations\20211202174517_initial.designer.cs
+++Pagamento
+i:{00305a17-dcb7-49f5-803d-754695130a3c}:Pagamento
+++NSE.Pagamentos.API
+i:{20432ea1-33eb-4cdb-9a80-c3065b0b95cd}:NSE.Pagamentos.API
+++PagamentoMapping.cs
+i:{d385728f-fb61-4568-a54a-4903b6b929b1}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.pagamento.api\data\mappings\pagamentomapping.cs
+++TransacaoMapping.cs
+i:{d385728f-fb61-4568-a54a-4903b6b929b1}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.pagamento.api\data\mappings\transacaomapping.cs
+++PagamentoRepository.cs
+i:{d385728f-fb61-4568-a54a-4903b6b929b1}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.pagamento.api\data\repositories\pagamentorepository.cs
+++PagamentosContext.cs
+i:{d385728f-fb61-4568-a54a-4903b6b929b1}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.pagamento.api\data\pagamentoscontext.cs
+++Facede
+i:{d385728f-fb61-4568-a54a-4903b6b929b1}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.pagamento.api\facede\
+++IPagamentoFacade.cs
+i:{d385728f-fb61-4568-a54a-4903b6b929b1}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.pagamento.api\facede\ipagamentofacade.cs
+++PagamentoCartaoCreditoFacade.cs
+i:{d385728f-fb61-4568-a54a-4903b6b929b1}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.pagamento.api\facede\pagamentocartaocreditofacade.cs
+++PagamentoConfig.cs
+i:{d385728f-fb61-4568-a54a-4903b6b929b1}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.pagamento.api\facede\pagamentoconfig.cs
+++IPagamentoService.cs
+i:{d385728f-fb61-4568-a54a-4903b6b929b1}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.pagamento.api\services\ipagamentoservice.cs
+++PagamentoIntegrationHandler.cs
+i:{d385728f-fb61-4568-a54a-4903b6b929b1}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.pagamento.api\services\pagamentointegrationhandler.cs
+++20220128192239_Pagamentos.cs
+i:{d385728f-fb61-4568-a54a-4903b6b929b1}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.pagamento.api\migrations\20220128192239_pagamentos.cs
+++PagamentosContextModelSnapshot.cs
+i:{d385728f-fb61-4568-a54a-4903b6b929b1}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.pagamento.api\migrations\pagamentoscontextmodelsnapshot.cs
+++CartaoCredito.cs
+i:{d385728f-fb61-4568-a54a-4903b6b929b1}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.pagamento.api\models\cartaocredito.cs
+++IPagamentoRepository.cs
+i:{d385728f-fb61-4568-a54a-4903b6b929b1}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.pagamento.api\models\ipagamentorepository.cs
+++Pagamento.cs
+i:{d385728f-fb61-4568-a54a-4903b6b929b1}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.pagamento.api\models\pagamento.cs
+++StatusTransacao.cs
+i:{d385728f-fb61-4568-a54a-4903b6b929b1}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.pagamento.api\models\statustransacao.cs
+++TipoPagamento.cs
+i:{d385728f-fb61-4568-a54a-4903b6b929b1}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.pagamento.api\models\tipopagamento.cs
+++Transacao.cs
+i:{d385728f-fb61-4568-a54a-4903b6b929b1}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.pagamento.api\models\transacao.cs
+++NSE.Pagamentos.NerdsPag
+i:{d385728f-fb61-4568-a54a-4903b6b929b1}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.pagamentos.nerdspag\nse.pagamentos.nerdspag.csproj
+i:{20432ea1-33eb-4cdb-9a80-c3065b0b95cd}:NSE.Pagamentos.NerdsPag
+++20220128192239_Pagamentos.Designer.cs
+i:{d385728f-fb61-4568-a54a-4903b6b929b1}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.pagamento.api\migrations\20220128192239_pagamentos.designer.cs
+++Card.cs
+i:{676f2d71-d53f-447f-861f-5c7466dd7728}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.pagamentos.nerdspag\card.cs
+++NerdsPagService.cs
+i:{676f2d71-d53f-447f-861f-5c7466dd7728}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.pagamentos.nerdspag\nerdspagservice.cs
+++PaymentMethod.cs
+i:{676f2d71-d53f-447f-861f-5c7466dd7728}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.pagamentos.nerdspag\paymentmethod.cs
+++Transaction.cs
+i:{676f2d71-d53f-447f-861f-5c7466dd7728}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.pagamentos.nerdspag\transaction.cs
+++TransactionStatus.cs
+i:{676f2d71-d53f-447f-861f-5c7466dd7728}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.pagamentos.nerdspag\transactionstatus.cs
+++Pedido
+i:{00305a17-dcb7-49f5-803d-754695130a3c}:Pedido
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\views\pedido\
+++NSE.Pedido.API
+i:{61bb0a11-f571-42c5-b1ab-161202808b75}:NSE.Pedido.API
+++AdicionarPedidoCommand.cs
+i:{269a9a96-cdee-4d05-a583-1da93fa45764}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.pedido.api\application\commands\adicionarpedidocommand.cs
+++PedidoCommandHandler.cs
+i:{269a9a96-cdee-4d05-a583-1da93fa45764}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.pedido.api\application\commands\pedidocommandhandler.cs
+++DTO
+i:{269a9a96-cdee-4d05-a583-1da93fa45764}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.pedido.api\application\dto\
+++Queries
+i:{269a9a96-cdee-4d05-a583-1da93fa45764}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.pedido.api\application\queries\
+++VoucherController.cs
+i:{269a9a96-cdee-4d05-a583-1da93fa45764}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.pedido.api\controllers\vouchercontroller.cs
+++PedidoItemDTO.cs
+i:{269a9a96-cdee-4d05-a583-1da93fa45764}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.pedido.api\application\dto\pedidoitemdto.cs
+++PedidoEventHandler.cs
+i:{269a9a96-cdee-4d05-a583-1da93fa45764}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.pedido.api\application\events\pedidoeventhandler.cs
+++PedidoRealizadoEvent.cs
+i:{269a9a96-cdee-4d05-a583-1da93fa45764}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.pedido.api\application\events\pedidorealizadoevent.cs
+++PedidoQueries.cs
+i:{269a9a96-cdee-4d05-a583-1da93fa45764}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.pedido.api\application\queries\pedidoqueries.cs
+++VoucherQueries.cs
+i:{269a9a96-cdee-4d05-a583-1da93fa45764}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.pedido.api\application\queries\voucherqueries.cs
+++Dapper (2.0.123)
+i:{269a9a96-cdee-4d05-a583-1da93fa45764}:>6160
+++NSE.Pedido.Domain
+i:{269a9a96-cdee-4d05-a583-1da93fa45764}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.pedido.domain\bin\debug\net6.0\nse.pedido.domain.dll
+i:{61bb0a11-f571-42c5-b1ab-161202808b75}:NSE.Pedido.Domain
+i:{34c4de92-cde1-43f3-abf7-a65a00411219}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.pedido.domain\bin\debug\net6.0\nse.pedido.domain.dll
+++NSE.Pedido.Infra
+i:{269a9a96-cdee-4d05-a583-1da93fa45764}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.pedido.infra\bin\debug\net6.0\nse.pedido.infra.dll
+i:{61bb0a11-f571-42c5-b1ab-161202808b75}:NSE.Pedido.Infra
+++Pedidos
+i:{b3df315f-9238-4511-aff6-c7675aaffbc0}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.pedido.domain\pedidos\
+++Vouchers
+i:{b3df315f-9238-4511-aff6-c7675aaffbc0}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.pedido.domain\vouchers\
+++IPedidoRepository.cs
+i:{b3df315f-9238-4511-aff6-c7675aaffbc0}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.pedido.domain\pedidos\ipedidorepository.cs
+++Pedido.cs
+i:{b3df315f-9238-4511-aff6-c7675aaffbc0}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.pedido.domain\pedidos\pedido.cs
+++PedidoItem.cs
+i:{b3df315f-9238-4511-aff6-c7675aaffbc0}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.pedido.domain\pedidos\pedidoitem.cs
+++PedidoStatus.cs
+i:{b3df315f-9238-4511-aff6-c7675aaffbc0}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.pedido.domain\pedidos\pedidostatus.cs
+++Specs
+i:{b3df315f-9238-4511-aff6-c7675aaffbc0}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.pedido.domain\vouchers\specs\
+++IVoucherRepository.cs
+i:{b3df315f-9238-4511-aff6-c7675aaffbc0}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.pedido.domain\vouchers\ivoucherrepository.cs
+++TipoDescontoVoucher.cs
+i:{b3df315f-9238-4511-aff6-c7675aaffbc0}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.pedido.domain\vouchers\tipodescontovoucher.cs
+++VoucherSpec.cs
+i:{b3df315f-9238-4511-aff6-c7675aaffbc0}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.pedido.domain\vouchers\specs\voucherspec.cs
+++VoucherValidation.cs
+i:{b3df315f-9238-4511-aff6-c7675aaffbc0}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.pedido.domain\vouchers\specs\vouchervalidation.cs
+++PedidosContext.cs
+i:{34c4de92-cde1-43f3-abf7-a65a00411219}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.pedido.infra\data\pedidoscontext.cs
+++20211229230921_Initial.cs
+i:{34c4de92-cde1-43f3-abf7-a65a00411219}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.pedido.infra\migrations\20211229230921_initial.cs
+++20220106214851_pedidos.cs
+i:{34c4de92-cde1-43f3-abf7-a65a00411219}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.pedido.infra\migrations\20220106214851_pedidos.cs
+++PedidosContextModelSnapshot.cs
+i:{34c4de92-cde1-43f3-abf7-a65a00411219}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.pedido.infra\migrations\pedidoscontextmodelsnapshot.cs
+++PedidoMapping.cs
+i:{34c4de92-cde1-43f3-abf7-a65a00411219}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.pedido.infra\data\mappings\pedidomapping.cs
+++VoucherMapping.cs
+i:{34c4de92-cde1-43f3-abf7-a65a00411219}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.pedido.infra\data\mappings\vouchermapping.cs
+++PedidoRepository.cs
+i:{34c4de92-cde1-43f3-abf7-a65a00411219}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.pedido.infra\data\repositories\pedidorepository.cs
+++VoucherRepository.cs
+i:{34c4de92-cde1-43f3-abf7-a65a00411219}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.pedido.infra\data\repositories\voucherrepository.cs
+++20211229230921_Initial.Designer.cs
+i:{34c4de92-cde1-43f3-abf7-a65a00411219}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.pedido.infra\migrations\20211229230921_initial.designer.cs
+++20220106214851_pedidos.Designer.cs
+i:{34c4de92-cde1-43f3-abf7-a65a00411219}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.pedido.infra\migrations\20220106214851_pedidos.designer.cs
+++Building Blocks
+i:{e4cce53b-01b5-4b7e-851f-2d07e7d1fb68}:Building Blocks
+++Core
+i:{dc46c634-ee75-4b61-ac0c-1f1f18d719a6}:Core
+++Communication
+i:{6c0d96dd-6a02-45ca-965a-c88d15fe2d94}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.core\communication\
+++DomainObjects
+i:{6c0d96dd-6a02-45ca-965a-c88d15fe2d94}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.core\domainobjects\
+++Mediator
+i:{6c0d96dd-6a02-45ca-965a-c88d15fe2d94}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.core\mediator\
+++Messages
+i:{6c0d96dd-6a02-45ca-965a-c88d15fe2d94}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.core\messages\
+++Utils
+i:{6c0d96dd-6a02-45ca-965a-c88d15fe2d94}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.core\utils\
+++Validation
+i:{6c0d96dd-6a02-45ca-965a-c88d15fe2d94}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.core\validation\
+++ResponseResult.cs
+i:{6c0d96dd-6a02-45ca-965a-c88d15fe2d94}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.core\communication\responseresult.cs
+++IRepository.cs
+i:{6c0d96dd-6a02-45ca-965a-c88d15fe2d94}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.core\data\irepository.cs
+++IUnitOfWork.cs
+i:{6c0d96dd-6a02-45ca-965a-c88d15fe2d94}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.core\data\iunitofwork.cs
+++Cpf.cs
+i:{6c0d96dd-6a02-45ca-965a-c88d15fe2d94}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.core\domainobjects\cpf.cs
+++DomainException.cs
+i:{6c0d96dd-6a02-45ca-965a-c88d15fe2d94}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.core\domainobjects\domainexception.cs
+++Email.cs
+i:{6c0d96dd-6a02-45ca-965a-c88d15fe2d94}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.core\domainobjects\email.cs
+++Entity.cs
+i:{6c0d96dd-6a02-45ca-965a-c88d15fe2d94}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.core\domainobjects\entity.cs
+++IAggregateRoot.cs
+i:{6c0d96dd-6a02-45ca-965a-c88d15fe2d94}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.core\domainobjects\iaggregateroot.cs
+++IMediatorHandler.cs
+i:{6c0d96dd-6a02-45ca-965a-c88d15fe2d94}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.core\mediator\imediatorhandler.cs
+++MediatorHandler.cs
+i:{6c0d96dd-6a02-45ca-965a-c88d15fe2d94}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.core\mediator\mediatorhandler.cs
+++Integrations
+i:{6c0d96dd-6a02-45ca-965a-c88d15fe2d94}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.core\messages\integrations\
+++Command.cs
+i:{6c0d96dd-6a02-45ca-965a-c88d15fe2d94}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.core\messages\command.cs
+++CommandHandler.cs
+i:{6c0d96dd-6a02-45ca-965a-c88d15fe2d94}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.core\messages\commandhandler.cs
+++Event.cs
+i:{6c0d96dd-6a02-45ca-965a-c88d15fe2d94}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.core\messages\event.cs
+++Message.cs
+i:{6c0d96dd-6a02-45ca-965a-c88d15fe2d94}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.core\messages\message.cs
+++ConfigurationExtensions.cs
+i:{6c0d96dd-6a02-45ca-965a-c88d15fe2d94}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.core\utils\configurationextensions.cs
+++StringUtils.cs
+i:{6c0d96dd-6a02-45ca-965a-c88d15fe2d94}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.core\utils\stringutils.cs
+++CartaoExpiracaoAttribute.cs
+i:{6c0d96dd-6a02-45ca-965a-c88d15fe2d94}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.core\validation\cartaoexpiracaoattribute.cs
+++FluentValidation (10.3.6)
+i:{6c0d96dd-6a02-45ca-965a-c88d15fe2d94}:>6011
+i:{bc8d841b-92b3-42f6-88ec-eb69a97e3fcb}:>6112
+++MediatR (9.0.0)
+i:{6c0d96dd-6a02-45ca-965a-c88d15fe2d94}:>6010
+++Microsoft.Extensions.Configuration.Abstractions (6.0.0)
+i:{6c0d96dd-6a02-45ca-965a-c88d15fe2d94}:>6009
+++NetDevPack (5.3.2)
+i:{6c0d96dd-6a02-45ca-965a-c88d15fe2d94}:>6012
+++IntegrationEvent.cs
+i:{6c0d96dd-6a02-45ca-965a-c88d15fe2d94}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.core\messages\integrations\integrationevent.cs
+++PedidoIniciadoIntegrationEvent.cs
+i:{6c0d96dd-6a02-45ca-965a-c88d15fe2d94}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.core\messages\integrations\pedidoiniciadointegrationevent.cs
+++PedidoRealizadoIntegrationEvent.cs
+i:{6c0d96dd-6a02-45ca-965a-c88d15fe2d94}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.core\messages\integrations\pedidorealizadointegrationevent.cs
+++ResponseMessage.cs
+i:{6c0d96dd-6a02-45ca-965a-c88d15fe2d94}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.core\messages\integrations\responsemessage.cs
+++UsuarioRegistradoIntegrationEvent.cs
+i:{6c0d96dd-6a02-45ca-965a-c88d15fe2d94}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.core\messages\integrations\usuarioregistradointegrationevent.cs
+++Usuario
+i:{bc8d841b-92b3-42f6-88ec-eb69a97e3fcb}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapi.core\usuario\
+++MainController.cs
+i:{bc8d841b-92b3-42f6-88ec-eb69a97e3fcb}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapi.core\controllers\maincontroller.cs
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\controllers\maincontroller.cs
+++PollyExtensions.cs
+i:{bc8d841b-92b3-42f6-88ec-eb69a97e3fcb}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapi.core\extensions\pollyextensions.cs
+++AppSettings.cs
+i:{bc8d841b-92b3-42f6-88ec-eb69a97e3fcb}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapi.core\identidade\appsettings.cs
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\extensions\appsettings.cs
+++CustomAuthorize.cs
+i:{bc8d841b-92b3-42f6-88ec-eb69a97e3fcb}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapi.core\identidade\customauthorize.cs
+++JwtConfig.cs
+i:{bc8d841b-92b3-42f6-88ec-eb69a97e3fcb}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapi.core\identidade\jwtconfig.cs
+++AspNetUser.cs
+i:{bc8d841b-92b3-42f6-88ec-eb69a97e3fcb}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapi.core\usuario\aspnetuser.cs
+++ClaimsPrincipalExtensions.cs
+i:{bc8d841b-92b3-42f6-88ec-eb69a97e3fcb}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapi.core\usuario\claimsprincipalextensions.cs
+++IAspNetUser.cs
+i:{bc8d841b-92b3-42f6-88ec-eb69a97e3fcb}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapi.core\usuario\iaspnetuser.cs
+++MessageBus
+i:{dc46c634-ee75-4b61-ac0c-1f1f18d719a6}:MessageBus
+++DependencyInjectionExtensions.cs
+i:{547dbb63-81fb-4d17-a94f-1bbdb1c93fe6}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.messagebus\dependencyinjectionextensions.cs
+++IMessageBus.cs
+i:{547dbb63-81fb-4d17-a94f-1bbdb1c93fe6}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.messagebus\imessagebus.cs
+++MessageBus.cs
+i:{547dbb63-81fb-4d17-a94f-1bbdb1c93fe6}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.messagebus\messagebus.cs
+++EasyNetQ (6.3.1)
+i:{547dbb63-81fb-4d17-a94f-1bbdb1c93fe6}:>6096
+++Web
+i:{e4cce53b-01b5-4b7e-851f-2d07e7d1fb68}:Web
+++MVC
+i:{1dcd7b3a-94b1-48d8-8d7b-94adac413b9a}:MVC
+++NSE.WebApp.MVC
+i:{99ee6c30-a782-439b-8fdd-d6e850bebddb}:NSE.WebApp.MVC
+++wwwroot
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\wwwroot\
+++Views
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\views\
+++_Endereco.cshtml
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\views\pedido\_endereco.cshtml
+++_NovoEndereco.cshtml
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\views\pedido\_novoendereco.cshtml
+++_ResumoFinanceiro.cshtml
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\views\pedido\_resumofinanceiro.cshtml
+++ConfirmacaoPedido.cshtml
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\views\pedido\confirmacaopedido.cshtml
+++EnderecoEntrega.cshtml
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\views\pedido\enderecoentrega.cshtml
+++MeusPedidos.cshtml
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\views\pedido\meuspedidos.cshtml
+++Pagamento.cshtml
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\views\pedido\pagamento.cshtml
+++Shared
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\views\shared\
+++_ViewImports.cshtml
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\views\_viewimports.cshtml
+++_ViewStart.cshtml
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\views\_viewstart.cshtml
+++libman.json
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\libman.json
+++css
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\wwwroot\css\
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\wwwroot\lib\font-awesome\css\
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\wwwroot\lib\bootstrap\dist\css\
+++images
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\wwwroot\images\
+++js
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\wwwroot\js\
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\wwwroot\lib\font-awesome\js\
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\wwwroot\lib\bootstrap\dist\js\
+++lib
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\wwwroot\lib\
+++favicon.ico
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\wwwroot\favicon.ico
+++MvcConfig.cs
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\configuration\mvcconfig.cs
+++CatalogoController.cs
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\controllers\catalogocontroller.cs
+++HomeController.cs
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\controllers\homecontroller.cs
+++IdentidadeController.cs
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\controllers\identidadecontroller.cs
+++CarrinhoViewComponent.cs
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\extensions\carrinhoviewcomponent.cs
+++CpfAnnotation.cs
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\extensions\cpfannotation.cs
+++CustomHttpRequestException.cs
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\extensions\customhttprequestexception.cs
+++ExceptionMiddleware.cs
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\extensions\exceptionmiddleware.cs
+++RazorHelpers.cs
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\extensions\razorhelpers.cs
+++SummaryViewComponent.cs
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\extensions\summaryviewcomponent.cs
+++EnderecoViewModel.cs
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\models\enderecoviewmodel.cs
+++ErrorViewModel.cs
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\models\errorviewmodel.cs
+++ItemCarrinhoViewModel.cs
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\models\itemcarrinhoviewmodel.cs
+++PedidoTransacaoViewModel.cs
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\models\pedidotransacaoviewmodel.cs
+++PedidoViewModel.cs
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\models\pedidoviewmodel.cs
+++ProdutoViewModel.cs
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\models\produtoviewmodel.cs
+++VoucherViewModel.cs
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\models\voucherviewmodel.cs
+++Handlers
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\services\handlers\
+++AutenticacaoService.cs
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\services\autenticacaoservice.cs
+++ComprasBffService.cs
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\services\comprasbffservice.cs
+++IAutenticacaoService.cs
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\services\iautenticacaoservice.cs
+++ICatalogoService.cs
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\services\icatalogoservice.cs
+++IComprasBffService.cs
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\services\icomprasbffservice.cs
+++IOption.cs
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\services\ioption.cs
+++Index.cshtml
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\views\carrinho\index.cshtml
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\views\catalogo\index.cshtml
+++ProdutoDetalhe.cshtml
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\views\catalogo\produtodetalhe.cshtml
+++Login.cshtml
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\views\identidade\login.cshtml
+++Registro.cshtml
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\views\identidade\registro.cshtml
+++Components
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\views\shared\components\
+++_Layout.cshtml
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\views\shared\_layout.cshtml
+++_LoginPartial.cshtml
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\views\shared\_loginpartial.cshtml
+++_ValidationScriptsPartial.cshtml
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\views\shared\_validationscriptspartial.cshtml
+++Error.cshtml
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\views\shared\error.cshtml
+++InterfaceStubGeneratorV2
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\users\jesiel\.nuget\packages\refit\6.1.15\analyzers\dotnet\roslyn4.0\cs\interfacestubgeneratorv2.dll
+++MessagePackAnalyzer
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\users\jesiel\.nuget\packages\messagepackanalyzer\2.1.152\analyzers\dotnet\messagepackanalyzer.dll
+++Microsoft.CodeAnalysis.Analyzers
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\users\jesiel\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.Analyzers
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\users\jesiel\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.csharp.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation (6.0.0)
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:>5993
+++Microsoft.VisualStudio.Web.CodeGeneration.Design (6.0.0)
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:>5997
+++Refit (6.1.15)
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:>5994
+++responsive.css
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\wwwroot\css\responsive.css
+++site.css
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\wwwroot\css\site.css
+++ui.css
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\wwwroot\css\ui.css
+++avatars
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\wwwroot\images\avatars\
+++banners
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\wwwroot\images\banners\
+++icons
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\wwwroot\images\icons\
+++misc
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\wwwroot\images\misc\
+++produtos
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\wwwroot\images\produtos\
+++logo.png
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\wwwroot\images\logo.png
+++script.js
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\wwwroot\js\script.js
+++site.js
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\wwwroot\js\site.js
+++bootstrap
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\wwwroot\lib\bootstrap\
+++font-awesome
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\wwwroot\lib\font-awesome\
+++jquery
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\wwwroot\lib\jquery\
+++jquery-validation
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\wwwroot\lib\jquery-validation\
+++jquery-validation-unobtrusive
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\wwwroot\lib\jquery-validation-unobtrusive\
+++Summary
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\views\shared\components\summary\
+++responsive.css.map
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\wwwroot\css\responsive.css.map
+++ui.css.map
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\wwwroot\css\ui.css.map
+++avatar1.jpg
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\wwwroot\images\avatars\avatar1.jpg
+++avatar2.jpg
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\wwwroot\images\avatars\avatar2.jpg
+++avatar3.jpg
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\wwwroot\images\avatars\avatar3.jpg
+++1.jpg
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\wwwroot\images\banners\1.jpg
+++nerdstore.png
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\wwwroot\images\banners\nerdstore.png
+++Template.jpg
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\wwwroot\images\banners\template.jpg
+++Template.png
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\wwwroot\images\banners\template.png
+++pay-american-ex.png
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\wwwroot\images\icons\pay-american-ex.png
+++pay-bank.png
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\wwwroot\images\icons\pay-bank.png
+++pay-mastercard.png
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\wwwroot\images\icons\pay-mastercard.png
+++pay-visa.png
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\wwwroot\images\icons\pay-visa.png
+++pay-visa-el.png
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\wwwroot\images\icons\pay-visa-el.png
+++appstore.png
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\wwwroot\images\misc\appstore.png
+++payments.png
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\wwwroot\images\misc\payments.png
+++playmarket.png
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\wwwroot\images\misc\playmarket.png
+++camiseta1.jpg
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\wwwroot\images\produtos\camiseta1.jpg
+++camiseta2.jpg
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\wwwroot\images\produtos\camiseta2.jpg
+++camiseta3.jpg
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\wwwroot\images\produtos\camiseta3.jpg
+++camiseta4.jpg
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\wwwroot\images\produtos\camiseta4.jpg
+++caneca1.jpg
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\wwwroot\images\produtos\caneca1.jpg
+++caneca2.jpg
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\wwwroot\images\produtos\caneca2.jpg
+++caneca3.jpg
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\wwwroot\images\produtos\caneca3.jpg
+++caneca4.jpg
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\wwwroot\images\produtos\caneca4.jpg
+++cards.png
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\wwwroot\images\produtos\cards.png
+++dist
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\wwwroot\lib\bootstrap\dist\
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\wwwroot\lib\jquery\dist\
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\wwwroot\lib\jquery-validation\dist\
+++LICENSE
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\wwwroot\lib\bootstrap\license
+++webfonts
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\wwwroot\lib\font-awesome\webfonts\
+++LICENSE.txt
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\wwwroot\lib\jquery\license.txt
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\wwwroot\lib\jquery-validation-unobtrusive\license.txt
+++LICENSE.md
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\wwwroot\lib\jquery-validation\license.md
+++jquery.validate.unobtrusive.js
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+++Default.cshtml
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\views\shared\components\carrinho\default.cshtml
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\views\shared\components\summary\default.cshtml
+++all.min.css
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\wwwroot\lib\font-awesome\css\all.min.css
+++all.min.js
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\wwwroot\lib\font-awesome\js\all.min.js
+++fa-brands-400.eot
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\wwwroot\lib\font-awesome\webfonts\fa-brands-400.eot
+++fa-brands-400.svg
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\wwwroot\lib\font-awesome\webfonts\fa-brands-400.svg
+++fa-brands-400.ttf
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\wwwroot\lib\font-awesome\webfonts\fa-brands-400.ttf
+++fa-brands-400.woff
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\wwwroot\lib\font-awesome\webfonts\fa-brands-400.woff
+++fa-brands-400.woff2
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\wwwroot\lib\font-awesome\webfonts\fa-brands-400.woff2
+++fa-regular-400.eot
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\wwwroot\lib\font-awesome\webfonts\fa-regular-400.eot
+++fa-regular-400.svg
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\wwwroot\lib\font-awesome\webfonts\fa-regular-400.svg
+++fa-regular-400.ttf
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\wwwroot\lib\font-awesome\webfonts\fa-regular-400.ttf
+++fa-regular-400.woff
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\wwwroot\lib\font-awesome\webfonts\fa-regular-400.woff
+++fa-regular-400.woff2
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\wwwroot\lib\font-awesome\webfonts\fa-regular-400.woff2
+++fa-solid-900.eot
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\wwwroot\lib\font-awesome\webfonts\fa-solid-900.eot
+++fa-solid-900.svg
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\wwwroot\lib\font-awesome\webfonts\fa-solid-900.svg
+++fa-solid-900.ttf
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\wwwroot\lib\font-awesome\webfonts\fa-solid-900.ttf
+++fa-solid-900.woff
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\wwwroot\lib\font-awesome\webfonts\fa-solid-900.woff
+++fa-solid-900.woff2
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\wwwroot\lib\font-awesome\webfonts\fa-solid-900.woff2
+++jquery.js
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\wwwroot\lib\jquery\dist\jquery.js
+++additional-methods.js
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\wwwroot\lib\jquery-validation\dist\additional-methods.js
+++jquery.validate.js
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+++jquery.validate.unobtrusive.min.js
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+++bootstrap.css
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+++bootstrap-grid.css
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+++bootstrap-reboot.css
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+++bootstrap.js
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+++jquery.min.js
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\wwwroot\lib\jquery\dist\jquery.min.js
+++additional-methods.min.js
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+++jquery.validate.min.js
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+++bootstrap.css.map
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+++bootstrap.min.css
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+++bootstrap-grid.css.map
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+++bootstrap-grid.min.css
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+++bootstrap-reboot.css.map
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+++bootstrap-reboot.min.css
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+++bootstrap.bundle.js
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+++bootstrap.js.map
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+++bootstrap.min.js
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+++jquery.min.map
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\wwwroot\lib\jquery\dist\jquery.min.map
+++bootstrap.min.css.map
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+++bootstrap-grid.min.css.map
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+++bootstrap-reboot.min.css.map
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+++bootstrap.bundle.js.map
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+++bootstrap.bundle.min.js
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+++bootstrap.min.js.map
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+++bootstrap.bundle.min.js.map
+i:{931d5368-4d23-4859-a0cf-c34a48d87666}:c:\projects\cursos c#\desenvolvedor.io\1 - asp.net core enterprise applications\nerdstoreenterprise\nse.webapp.mvc\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map

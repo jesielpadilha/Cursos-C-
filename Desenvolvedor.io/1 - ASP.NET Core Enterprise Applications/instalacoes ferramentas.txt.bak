@@ -1,0 +1,7 @@
+======== Rabbit MQ
+docker run -d --hostname rabbit-host --name rabbit-nerdstore -p 15672:15672 -p 5672:5672 rabbitmq:management
+
+
+======== Migration com projetos separados
+dotnet ef migrations add pedidos --startup-project ../NSE.Pedidos.API
+dotnet ef database update --startup-project ../NSE.Pedidos.API

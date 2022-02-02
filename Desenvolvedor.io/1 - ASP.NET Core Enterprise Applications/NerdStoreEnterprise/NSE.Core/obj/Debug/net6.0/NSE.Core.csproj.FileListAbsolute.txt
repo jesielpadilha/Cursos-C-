@@ -1,0 +1,24 @@
+C:\Users\Jesiel\Documents\Visual Studio 2019\Projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Core\bin\Debug\net6.0\NSE.Core.deps.json
+C:\Users\Jesiel\Documents\Visual Studio 2019\Projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Core\bin\Debug\net6.0\NSE.Core.dll
+C:\Users\Jesiel\Documents\Visual Studio 2019\Projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Core\bin\Debug\net6.0\ref\NSE.Core.dll
+C:\Users\Jesiel\Documents\Visual Studio 2019\Projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Core\bin\Debug\net6.0\NSE.Core.pdb
+C:\Users\Jesiel\Documents\Visual Studio 2019\Projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Core\obj\Debug\net6.0\NSE.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jesiel\Documents\Visual Studio 2019\Projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Core\obj\Debug\net6.0\NSE.Core.AssemblyInfoInputs.cache
+C:\Users\Jesiel\Documents\Visual Studio 2019\Projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Core\obj\Debug\net6.0\NSE.Core.AssemblyInfo.cs
+C:\Users\Jesiel\Documents\Visual Studio 2019\Projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Core\obj\Debug\net6.0\NSE.Core.csproj.CoreCompileInputs.cache
+C:\Users\Jesiel\Documents\Visual Studio 2019\Projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Core\obj\Debug\net6.0\NSE.Core.dll
+C:\Users\Jesiel\Documents\Visual Studio 2019\Projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Core\obj\Debug\net6.0\ref\NSE.Core.dll
+C:\Users\Jesiel\Documents\Visual Studio 2019\Projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Core\obj\Debug\net6.0\NSE.Core.pdb
+C:\Users\Jesiel\Documents\Visual Studio 2019\Projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Core\obj\Debug\net6.0\NSE.Core.csproj.AssemblyReference.cache
+C:\projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Core\bin\Debug\net6.0\NSE.Core.deps.json
+C:\projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Core\bin\Debug\net6.0\NSE.Core.dll
+C:\projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Core\bin\Debug\net6.0\ref\NSE.Core.dll
+C:\projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Core\bin\Debug\net6.0\NSE.Core.pdb
+C:\projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Core\obj\Debug\net6.0\NSE.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Core\obj\Debug\net6.0\NSE.Core.AssemblyInfoInputs.cache
+C:\projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Core\obj\Debug\net6.0\NSE.Core.AssemblyInfo.cs
+C:\projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Core\obj\Debug\net6.0\NSE.Core.csproj.CoreCompileInputs.cache
+C:\projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Core\obj\Debug\net6.0\NSE.Core.dll
+C:\projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Core\obj\Debug\net6.0\ref\NSE.Core.dll
+C:\projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Core\obj\Debug\net6.0\NSE.Core.pdb
+C:\projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Core\obj\Debug\net6.0\NSE.Core.csproj.AssemblyReference.cache
