@@ -79,6 +79,8 @@ namespace NSE.MessageBus
 
         private void TryConnect()
         {
+            Console.WriteLine($"\n**************************** Trying connecting to RabbitMq: {_connectionString}\n");
+
             if (IsConnected) return;
 
             var policy = Policy.Handle<EasyNetQException>()

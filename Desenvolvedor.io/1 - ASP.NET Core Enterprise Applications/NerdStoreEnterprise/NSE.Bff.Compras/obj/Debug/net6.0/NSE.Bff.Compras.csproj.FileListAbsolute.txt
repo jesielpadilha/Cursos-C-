@@ -4,7 +4,6 @@ C:\projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\
 C:\projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Bff.Compras\bin\Debug\net6.0\NSE.Bff.Compras.deps.json
 C:\projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Bff.Compras\bin\Debug\net6.0\NSE.Bff.Compras.runtimeconfig.json
 C:\projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Bff.Compras\bin\Debug\net6.0\NSE.Bff.Compras.dll
-C:\projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Bff.Compras\bin\Debug\net6.0\ref\NSE.Bff.Compras.dll
 C:\projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Bff.Compras\bin\Debug\net6.0\NSE.Bff.Compras.pdb
 C:\projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Bff.Compras\bin\Debug\net6.0\EasyNetQ.dll
 C:\projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Bff.Compras\bin\Debug\net6.0\FluentValidation.dll
@@ -47,3 +46,12 @@ C:\projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\
 C:\projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Bff.Compras\obj\Debug\net6.0\ref\NSE.Bff.Compras.dll
 C:\projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Bff.Compras\obj\Debug\net6.0\NSE.Bff.Compras.pdb
 C:\projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Bff.Compras\obj\Debug\net6.0\NSE.Bff.Compras.genruntimeconfig.cache
+C:\projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Bff.Compras\bin\Debug\net6.0\NetDevPack.Security.JwtExtensions.dll
+C:\projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Bff.Compras\bin\Debug\net6.0\Google.Protobuf.dll
+C:\projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Bff.Compras\bin\Debug\net6.0\Grpc.AspNetCore.Server.dll
+C:\projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Bff.Compras\bin\Debug\net6.0\Grpc.AspNetCore.Server.ClientFactory.dll
+C:\projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Bff.Compras\bin\Debug\net6.0\Grpc.Core.Api.dll
+C:\projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Bff.Compras\bin\Debug\net6.0\Grpc.Net.Client.dll
+C:\projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Bff.Compras\bin\Debug\net6.0\Grpc.Net.ClientFactory.dll
+C:\projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Bff.Compras\bin\Debug\net6.0\Grpc.Net.Common.dll
+C:\projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Bff.Compras\obj\Debug\net6.0\refint\NSE.Bff.Compras.dll

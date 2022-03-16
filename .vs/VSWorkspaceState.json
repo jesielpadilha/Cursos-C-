@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Desenvolvedor.io",
+    "\\Desenvolvedor.io\\1 - ASP.NET Core Enterprise Applications",
+    "\\Desenvolvedor.io\\1 - ASP.NET Core Enterprise Applications\\NerdStoreEnterprise",
+    "\\Desenvolvedor.io\\1 - ASP.NET Core Enterprise Applications\\NerdStoreEnterprise\\NSE.WebApp.MVC"
   ],
-  "SelectedNode": "\\ProductCatalog.sln",
+  "SelectedNode": "\\Desenvolvedor.io\\1 - ASP.NET Core Enterprise Applications\\NerdStoreEnterprise\\NerdStoreEnterprise.sln",
   "PreviewInSolutionExplorer": false
 }

@@ -34,23 +34,22 @@ namespace NSE.Pedido.API.Services
 
         private async void ProcessarPedidos(object state)
         {
-            using var scope = _serviceProvider.CreateScope();
-            var pedidoQueries = scope.ServiceProvider.GetRequiredService<IPedidoQueries>();
-            var pedido = await pedidoQueries.ObterPedidosAutorizados();
+            using (var scope = _serviceProvider.CreateScope())
+            {
+                var pedidoQueries = scope.ServiceProvider.GetRequiredService<IPedidoQueries>();
+                var pedido = await pedidoQueries.ObterPedidosAutorizados();
 
-            if (pedido == null) return;
+                if (pedido == null) return;
 
-            var bus = scope.ServiceProvider.GetRequiredService<IMessageBus>();
+                var bus = scope.ServiceProvider.GetRequiredService<IMessageBus>();
 
-            var pedidoAutorizado = new PedidoAutorizadoIntegrationEvent(
-                pedido.ClienteId,
-                pedido.Id,
-                pedido.PedidoItens.ToDictionary(p => p.ProdutoId, p => p.Quantidade)
-            );
+                var pedidoAutorizado = new PedidoAutorizadoIntegrationEvent(pedido.ClienteId, pedido.Id,
+                    pedido.PedidoItens.ToDictionary(p => p.ProdutoId, p => p.Quantidade));
 
-            await bus.PublishAsync(pedidoAutorizado);
+                await bus.PublishAsync(pedidoAutorizado);
 
-            _logger.LogInformation($"Pedido ID {pedido.Id} foi encaminhado para baixa no estoque.");
+                _logger.LogInformation($"Pedido ID: {pedido.Id} foi encaminhado para baixa no estoque.");
+            }
         }
 
         public Task StopAsync(CancellationToken cancellationToken)

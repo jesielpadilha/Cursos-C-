@@ -1,18 +1,5 @@
-C:\Users\Jesiel\Documents\Visual Studio 2019\Projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.WebAPI.Core\bin\Debug\net6.0\NSE.WebAPI.Core.deps.json
-C:\Users\Jesiel\Documents\Visual Studio 2019\Projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.WebAPI.Core\bin\Debug\net6.0\NSE.WebAPI.Core.dll
-C:\Users\Jesiel\Documents\Visual Studio 2019\Projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.WebAPI.Core\bin\Debug\net6.0\ref\NSE.WebAPI.Core.dll
-C:\Users\Jesiel\Documents\Visual Studio 2019\Projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.WebAPI.Core\bin\Debug\net6.0\NSE.WebAPI.Core.pdb
-C:\Users\Jesiel\Documents\Visual Studio 2019\Projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.WebAPI.Core\obj\Debug\net6.0\NSE.WebAPI.Core.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Jesiel\Documents\Visual Studio 2019\Projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.WebAPI.Core\obj\Debug\net6.0\NSE.WebAPI.Core.AssemblyInfoInputs.cache
-C:\Users\Jesiel\Documents\Visual Studio 2019\Projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.WebAPI.Core\obj\Debug\net6.0\NSE.WebAPI.Core.AssemblyInfo.cs
-C:\Users\Jesiel\Documents\Visual Studio 2019\Projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.WebAPI.Core\obj\Debug\net6.0\NSE.WebAPI.Core.csproj.CoreCompileInputs.cache
-C:\Users\Jesiel\Documents\Visual Studio 2019\Projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.WebAPI.Core\obj\Debug\net6.0\NSE.WebAPI.Core.dll
-C:\Users\Jesiel\Documents\Visual Studio 2019\Projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.WebAPI.Core\obj\Debug\net6.0\ref\NSE.WebAPI.Core.dll
-C:\Users\Jesiel\Documents\Visual Studio 2019\Projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.WebAPI.Core\obj\Debug\net6.0\NSE.WebAPI.Core.pdb
-C:\Users\Jesiel\Documents\Visual Studio 2019\Projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.WebAPI.Core\obj\Debug\net6.0\NSE.WebAPI.Core.csproj.AssemblyReference.cache
 C:\projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.WebAPI.Core\bin\Debug\net6.0\NSE.WebAPI.Core.deps.json
 C:\projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.WebAPI.Core\bin\Debug\net6.0\NSE.WebAPI.Core.dll
-C:\projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.WebAPI.Core\bin\Debug\net6.0\ref\NSE.WebAPI.Core.dll
 C:\projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.WebAPI.Core\bin\Debug\net6.0\NSE.WebAPI.Core.pdb
 C:\projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.WebAPI.Core\bin\Debug\net6.0\NSE.Core.dll
 C:\projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.WebAPI.Core\bin\Debug\net6.0\NSE.Core.pdb
@@ -25,3 +12,4 @@ C:\projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\
 C:\projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.WebAPI.Core\obj\Debug\net6.0\NSE.WebAPI.Core.dll
 C:\projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.WebAPI.Core\obj\Debug\net6.0\ref\NSE.WebAPI.Core.dll
 C:\projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.WebAPI.Core\obj\Debug\net6.0\NSE.WebAPI.Core.pdb
+C:\projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.WebAPI.Core\obj\Debug\net6.0\refint\NSE.WebAPI.Core.dll

@@ -1,6 +1,5 @@
 C:\projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Pagamentos.NerdsPag\bin\Debug\net6.0\NSE.Pagamentos.NerdsPag.deps.json
 C:\projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Pagamentos.NerdsPag\bin\Debug\net6.0\NSE.Pagamentos.NerdsPag.dll
-C:\projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Pagamentos.NerdsPag\bin\Debug\net6.0\ref\NSE.Pagamentos.NerdsPag.dll
 C:\projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Pagamentos.NerdsPag\bin\Debug\net6.0\NSE.Pagamentos.NerdsPag.pdb
 C:\projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Pagamentos.NerdsPag\obj\Debug\net6.0\NSE.Pagamentos.NerdsPag.GeneratedMSBuildEditorConfig.editorconfig
 C:\projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Pagamentos.NerdsPag\obj\Debug\net6.0\NSE.Pagamentos.NerdsPag.AssemblyInfoInputs.cache
@@ -10,3 +9,4 @@ C:\projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\
 C:\projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Pagamentos.NerdsPag\obj\Debug\net6.0\ref\NSE.Pagamentos.NerdsPag.dll
 C:\projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Pagamentos.NerdsPag\obj\Debug\net6.0\NSE.Pagamentos.NerdsPag.pdb
 C:\projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Pagamentos.NerdsPag\obj\Debug\net6.0\NSE.Pagamentos.NerdsPag.csproj.AssemblyReference.cache
+C:\projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Pagamentos.NerdsPag\obj\Debug\net6.0\refint\NSE.Pagamentos.NerdsPag.dll

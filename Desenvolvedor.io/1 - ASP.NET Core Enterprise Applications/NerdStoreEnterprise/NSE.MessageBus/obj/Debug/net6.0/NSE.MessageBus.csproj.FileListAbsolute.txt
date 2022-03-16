@@ -1,21 +1,5 @@
-C:\Users\Jesiel\Documents\Visual Studio 2019\Projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.MessageBus\bin\Debug\net6.0\NSE.MessageBus.deps.json
-C:\Users\Jesiel\Documents\Visual Studio 2019\Projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.MessageBus\bin\Debug\net6.0\NSE.MessageBus.dll
-C:\Users\Jesiel\Documents\Visual Studio 2019\Projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.MessageBus\bin\Debug\net6.0\ref\NSE.MessageBus.dll
-C:\Users\Jesiel\Documents\Visual Studio 2019\Projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.MessageBus\bin\Debug\net6.0\NSE.MessageBus.pdb
-C:\Users\Jesiel\Documents\Visual Studio 2019\Projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.MessageBus\bin\Debug\net6.0\NSE.Core.dll
-C:\Users\Jesiel\Documents\Visual Studio 2019\Projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.MessageBus\bin\Debug\net6.0\NSE.Core.pdb
-C:\Users\Jesiel\Documents\Visual Studio 2019\Projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.MessageBus\obj\Debug\net6.0\NSE.MessageBus.csproj.AssemblyReference.cache
-C:\Users\Jesiel\Documents\Visual Studio 2019\Projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.MessageBus\obj\Debug\net6.0\NSE.MessageBus.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Jesiel\Documents\Visual Studio 2019\Projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.MessageBus\obj\Debug\net6.0\NSE.MessageBus.AssemblyInfoInputs.cache
-C:\Users\Jesiel\Documents\Visual Studio 2019\Projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.MessageBus\obj\Debug\net6.0\NSE.MessageBus.AssemblyInfo.cs
-C:\Users\Jesiel\Documents\Visual Studio 2019\Projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.MessageBus\obj\Debug\net6.0\NSE.MessageBus.csproj.CoreCompileInputs.cache
-C:\Users\Jesiel\Documents\Visual Studio 2019\Projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.MessageBus\obj\Debug\net6.0\NSE.MessageBus.csproj.CopyComplete
-C:\Users\Jesiel\Documents\Visual Studio 2019\Projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.MessageBus\obj\Debug\net6.0\NSE.MessageBus.dll
-C:\Users\Jesiel\Documents\Visual Studio 2019\Projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.MessageBus\obj\Debug\net6.0\ref\NSE.MessageBus.dll
-C:\Users\Jesiel\Documents\Visual Studio 2019\Projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.MessageBus\obj\Debug\net6.0\NSE.MessageBus.pdb
 C:\projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.MessageBus\bin\Debug\net6.0\NSE.MessageBus.deps.json
 C:\projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.MessageBus\bin\Debug\net6.0\NSE.MessageBus.dll
-C:\projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.MessageBus\bin\Debug\net6.0\ref\NSE.MessageBus.dll
 C:\projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.MessageBus\bin\Debug\net6.0\NSE.MessageBus.pdb
 C:\projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.MessageBus\bin\Debug\net6.0\NSE.Core.dll
 C:\projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.MessageBus\bin\Debug\net6.0\NSE.Core.pdb
@@ -28,3 +12,4 @@ C:\projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\
 C:\projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.MessageBus\obj\Debug\net6.0\NSE.MessageBus.dll
 C:\projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.MessageBus\obj\Debug\net6.0\ref\NSE.MessageBus.dll
 C:\projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.MessageBus\obj\Debug\net6.0\NSE.MessageBus.pdb
+C:\projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.MessageBus\obj\Debug\net6.0\refint\NSE.MessageBus.dll

@@ -4,7 +4,6 @@ C:\projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\
 C:\projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Pedido.API\bin\Debug\net6.0\NSE.Pedido.API.deps.json
 C:\projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Pedido.API\bin\Debug\net6.0\NSE.Pedido.API.runtimeconfig.json
 C:\projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Pedido.API\bin\Debug\net6.0\NSE.Pedido.API.dll
-C:\projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Pedido.API\bin\Debug\net6.0\ref\NSE.Pedido.API.dll
 C:\projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Pedido.API\bin\Debug\net6.0\NSE.Pedido.API.pdb
 C:\projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Pedido.API\bin\Debug\net6.0\EasyNetQ.dll
 C:\projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Pedido.API\bin\Debug\net6.0\FluentValidation.dll
@@ -80,3 +79,5 @@ C:\projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\
 C:\projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Pedido.API\obj\Debug\net6.0\NSE.Pedido.API.pdb
 C:\projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Pedido.API\obj\Debug\net6.0\NSE.Pedido.API.genruntimeconfig.cache
 C:\projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Pedido.API\bin\Debug\net6.0\Dapper.dll
+C:\projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Pedido.API\bin\Debug\net6.0\NetDevPack.Security.JwtExtensions.dll
+C:\projects\Cursos C#\Desenvolvedor.io\1 - ASP.NET Core Enterprise Applications\NerdStoreEnterprise\NSE.Pedido.API\obj\Debug\net6.0\refint\NSE.Pedido.API.dll

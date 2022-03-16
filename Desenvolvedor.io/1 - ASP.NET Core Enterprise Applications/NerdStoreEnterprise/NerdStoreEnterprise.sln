@@ -63,6 +63,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NSE.Pedido.Infra", "NSE.Ped
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NSE.Pagamentos.NerdsPag", "NSE.Pagamentos.NerdsPag\NSE.Pagamentos.NerdsPag.csproj", "{676F2D71-D53F-447F-861F-5C7466DD7728}"
 EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{4478A907-DC51-4EE2-B8E8-2C3AA6C94563}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -125,6 +127,10 @@ Global
 		{676F2D71-D53F-447F-861F-5C7466DD7728}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{676F2D71-D53F-447F-861F-5C7466DD7728}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{676F2D71-D53F-447F-861F-5C7466DD7728}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4478A907-DC51-4EE2-B8E8-2C3AA6C94563}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4478A907-DC51-4EE2-B8E8-2C3AA6C94563}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4478A907-DC51-4EE2-B8E8-2C3AA6C94563}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4478A907-DC51-4EE2-B8E8-2C3AA6C94563}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

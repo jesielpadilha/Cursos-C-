@@ -8,6 +8,9 @@ EXPOSE 443
 FROM mcr.microsoft.com/dotnet/sdk:6.0 AS build
 WORKDIR /src
 COPY ["NSE.Bff.Compras/NSE.Bff.Compras.csproj", "NSE.Bff.Compras/"]
+COPY ["NSE.MessageBus/NSE.MessageBus.csproj", "NSE.MessageBus/"]
+COPY ["NSE.Core/NSE.Core.csproj", "NSE.Core/"]
+COPY ["NSE.WebAPI.Core/NSE.WebAPI.Core.csproj", "NSE.WebAPI.Core/"]
 RUN dotnet restore "NSE.Bff.Compras/NSE.Bff.Compras.csproj"
 COPY . .
 WORKDIR "/src/NSE.Bff.Compras"

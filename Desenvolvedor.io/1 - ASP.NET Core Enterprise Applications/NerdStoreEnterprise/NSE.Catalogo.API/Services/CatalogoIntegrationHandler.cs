@@ -36,48 +36,53 @@ namespace NSE.Catalogo.API.Services
 
         private async Task BaixarEstoque(PedidoAutorizadoIntegrationEvent message)
         {
-            var scope = _serviceProvider.CreateScope();
-
-            var produtosComEstoque = new List<Produto>();
-            var produtoRepository = scope.ServiceProvider.GetRequiredService<IProdutoRepository>();
-            var idsProdutos = string.Join(",", message.Itens.Select(c => c.Key));
-            var produtos = await produtoRepository.ObterProdutosPorId(idsProdutos);
-
-            if (produtos.Count != message.Itens.Count)
+            using (var scope = _serviceProvider.CreateScope())
             {
-                CancelarPedidosSemEstoque(message);
-                return;
-            }
+                var produtosComEstoque = new List<Produto>();
+                var produtoRepository = scope.ServiceProvider.GetRequiredService<IProdutoRepository>();
 
-            foreach (var produto in produtos)
-            {
-                var quantidadeProduto = message.Itens.FirstOrDefault(p => p.Key == produto.Id).Value;
-                if (produto.EstaDisponivel(quantidadeProduto))
+                var idsProdutos = string.Join(",", message.Itens.Select(c => c.Key));
+                var produtos = await produtoRepository.ObterProdutosPorId(idsProdutos);
+
+                if (produtos.Count != message.Itens.Count)
                 {
-                    produto.RetirarEstoque(quantidadeProduto);
-                    produtosComEstoque.Add(produto);
+                    CancelarPedidoSemEstoque(message);
+                    return;
                 }
+
+                foreach (var produto in produtos)
+                {
+                    var quantidadeProduto = message.Itens.FirstOrDefault(p => p.Key == produto.Id).Value;
+
+                    if (produto.EstaDisponivel(quantidadeProduto))
+                    {
+                        produto.RetirarEstoque(quantidadeProduto);
+                        produtosComEstoque.Add(produto);
+                    }
+                }
+
+                if (produtosComEstoque.Count != message.Itens.Count)
+                {
+                    CancelarPedidoSemEstoque(message);
+                    return;
+                }
+
+                foreach (var produto in produtosComEstoque)
+                {
+                    produtoRepository.Atualizar(produto);
+                }
+
+                if (!await produtoRepository.UnitOfWork.Commit())
+                {
+                    throw new DomainException($"Problemas ao atualizar estoque do pedido {message.PedidoId}");
+                }
+
+                var pedidoBaixado = new PedidoBaixadoEstoqueIntegrationEvent(message.ClienteId, message.PedidoId);
+                await _bus.PublishAsync(pedidoBaixado);
             }
-
-            if (produtosComEstoque.Count != message.Itens.Count)
-            {
-                CancelarPedidosSemEstoque(message);
-                return;
-            }
-
-            foreach (var produto in produtosComEstoque)
-                produtoRepository.Atualizar(produto);
-
-
-            if (!await produtoRepository.UnitOfWork.Commit())
-                throw new DomainException($"Problemas ao atualizar o estoque do pedido {message.PedidoId}");
-
-
-            var pedidoBaixado = new PedidoBaixadoEstoqueIntegrationEvent(message.ClienteId, message.PedidoId);
-            await _bus.PublishAsync(pedidoBaixado);
         }
 
-        public async void CancelarPedidosSemEstoque(PedidoAutorizadoIntegrationEvent message)
+        public async void CancelarPedidoSemEstoque(PedidoAutorizadoIntegrationEvent message)
         {
             var pedidoCancelado = new PedidoCanceladoIntegrationEvent(message.ClienteId, message.PedidoId);
             await _bus.PublishAsync(pedidoCancelado);

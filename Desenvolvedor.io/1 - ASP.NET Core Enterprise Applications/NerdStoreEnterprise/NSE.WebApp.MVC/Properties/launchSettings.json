@@ -23,10 +23,10 @@
         "ASPNETCORE_ENVIRONMENT": "Development",
         "ASPNETCORE_HOSTINGSTARTUPASSEMBLIES": "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation"
       },
-      "dotnetRunMessages": "true",
-      "applicationUrl": "https://localhost:9991;http://localhost:9990"
+      "applicationUrl": "https://localhost:9991;http://localhost:9990",
+      "dotnetRunMessages": "true"
     },
-    "Docker": {
+    "Docker (1)": {
       "commandName": "Docker",
       "launchBrowser": true,
       "launchUrl": "{Scheme}://{ServiceHost}:{ServicePort}",

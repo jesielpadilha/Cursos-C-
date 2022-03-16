@@ -124,7 +124,7 @@ namespace NSE.Pedido.API.Application.Queries
                                 P.ID as 'PedidoId', P.ID, P.CLIENTEID, 
                                 PI.ID as 'PedidoItemId', PI.ID, PI.PRODUTOID, PI.QUANTIDADE 
                                 FROM PEDIDOS P 
-                                INNER JOIN PEDIDOITEMS PI ON P.ID = PI.PEDIDOID 
+                                INNER JOIN PEDIDOITENS PI ON P.ID = PI.PEDIDOID 
                                 WHERE P.PEDIDOSTATUS = 1                                
                                 ORDER BY P.DATACADASTRO";
 
@@ -136,8 +136,8 @@ namespace NSE.Pedido.API.Application.Queries
                 {
                     if (!lookup.TryGetValue(p.Id, out var pedidoDTO))
                         lookup.Add(p.Id, pedidoDTO = p);
-
-                    pedidoDTO.PedidoItens ?? = new List<PedidoItemDTO>();
+                    
+                    pedidoDTO.PedidoItens ??= new List<PedidoItemDTO>();
                     pedidoDTO.PedidoItens.Add(pi);
 
                     return pedidoDTO;
